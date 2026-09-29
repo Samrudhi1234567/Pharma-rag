@@ -1,0 +1,24 @@
+Tenant: pharma-b
+Allowed Roles: sales_manager, analyst
+Product: P007
+Region: India
+State: Delhi
+Year: 2026
+Quarter: Q1
+Classification: internal
+
+State Sales Performance Report
+==============================
+
+State: Delhi
+Quarter: Q1
+Year: 2026
+
+Product P007 recorded the strongest synthetic
+sales performance in Delhi during Q1.
+
+The product demonstrated positive revenue growth and
+performed above the synthetic sales target.
+
+This document contains synthetic pharmaceutical sales
+information created for the Pharma RAG evaluation system.

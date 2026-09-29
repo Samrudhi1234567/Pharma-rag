@@ -1,0 +1,23 @@
+Tenant: pharma-a
+Allowed Roles: analyst
+Product: P009
+Region: South
+Year: 2026
+Quarter: Q4
+Classification: internal
+
+Product ID: P009
+Product Name: Losartan
+Therapeutic Area: Cardiovascular
+Synthetic Indication: Hypertension management
+Dosage Form: Tablet
+
+Losartan demonstrated strong synthetic commercial performance
+during Q4 2026.
+
+The product showed significant demand across the South region.
+Sales performance remained consistent with the synthetic business
+targets for the reporting period.
+
+This document contains synthetic pharmaceutical product information
+created for the Pharma RAG evaluation system.

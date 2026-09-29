@@ -1,0 +1,25 @@
+Tenant: pharma-b
+Allowed Roles: sales_manager, analyst
+Product: P009
+Region: West
+Year: 2026
+Quarter: Q4
+Classification: internal
+
+Regional Sales Report
+=====================
+
+Region: West
+Quarter: Q4
+Year: 2026
+
+Product P009 achieved the highest synthetic revenue
+performance in the West region during Q4.
+
+The strongest state-level contribution came from Maharashtra.
+
+Sales performance exceeded the synthetic quarterly target
+during the reporting period.
+
+This report contains synthetic sales information created
+for the Pharma RAG evaluation system.

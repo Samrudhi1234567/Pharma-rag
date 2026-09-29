@@ -1,0 +1,24 @@
+Tenant: pharma-a
+Allowed Roles: sales_manager, analyst
+Product: P004
+Region: India
+State: Maharashtra
+Year: 2026
+Quarter: Q2
+Classification: internal
+
+State Sales Performance Report
+==============================
+
+State: Maharashtra
+Quarter: Q2
+Year: 2026
+
+Product P004 recorded the strongest synthetic
+sales performance in Maharashtra during Q2.
+
+The product demonstrated positive revenue growth and
+performed above the synthetic sales target.
+
+This document contains synthetic pharmaceutical sales
+information created for the Pharma RAG evaluation system.

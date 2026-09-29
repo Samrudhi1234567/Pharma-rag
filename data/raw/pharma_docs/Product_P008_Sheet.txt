@@ -1,0 +1,23 @@
+Tenant: pharma-a
+Allowed Roles: analyst
+Product: P008
+Region: South
+Year: 2026
+Quarter: Q1
+Classification: internal
+
+Product ID: P008
+Product Name: Omeprazole
+Therapeutic Area: Gastrointestinal
+Synthetic Indication: Acid reflux management
+Dosage Form: Capsule
+
+Omeprazole demonstrated strong synthetic commercial performance
+during Q1 2026.
+
+The product showed significant demand across the South region.
+Sales performance remained consistent with the synthetic business
+targets for the reporting period.
+
+This document contains synthetic pharmaceutical product information
+created for the Pharma RAG evaluation system.

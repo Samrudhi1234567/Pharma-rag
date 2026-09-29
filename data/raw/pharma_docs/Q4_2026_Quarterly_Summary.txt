@@ -1,0 +1,24 @@
+Tenant: pharma-b
+Allowed Roles: sales_manager, analyst
+Product: P009
+Year: 2026
+Quarter: Q4
+Classification: internal
+
+Quarterly Business Summary
+==========================
+
+Quarter: Q4
+Year: 2026
+
+Product P009 delivered strong synthetic revenue
+performance during Q4.
+
+Revenue performance remained above the synthetic target
+for the reporting period.
+
+The product demonstrated stable demand across multiple
+regions.
+
+This document contains synthetic quarterly information
+created for the Pharma RAG evaluation system.

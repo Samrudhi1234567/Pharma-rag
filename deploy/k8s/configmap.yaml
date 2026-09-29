@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: pharma-api-config
+data:
+  QDRANT_HOST: "pharma-qdrant"
+  QDRANT_PORT: "6333"
+  QDRANT_COLLECTION_NAME: "pharma_documents"
+  EMBEDDING_PROVIDER: "huggingface"
+  EMBEDDING_MODEL: "sentence-transformers/all-MiniLM-L6-v2"
+  LLM_PROVIDER: "huggingface"
+  LLM_MODEL: "Qwen/Qwen2.5-3B-Instruct:featherless-ai"
+  KEYCLOAK_INTERNAL_URL: "http://pharma-keycloak:8080"
+  KEYCLOAK_ISSUER: "http://localhost:8080/realms/pharma-rag"
+  KEYCLOAK_CLIENT_ID: "pharma-rag-api"

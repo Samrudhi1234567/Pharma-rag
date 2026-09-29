@@ -1,0 +1,24 @@
+Tenant: pharma-b
+Allowed Roles: sales_manager, analyst
+Product: P009
+Region: India
+State: Gujarat
+Year: 2026
+Quarter: Q4
+Classification: internal
+
+State Sales Performance Report
+==============================
+
+State: Gujarat
+Quarter: Q4
+Year: 2026
+
+Product P009 recorded the strongest synthetic
+sales performance in Gujarat during Q4.
+
+The product demonstrated positive revenue growth and
+performed above the synthetic sales target.
+
+This document contains synthetic pharmaceutical sales
+information created for the Pharma RAG evaluation system.

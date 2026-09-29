@@ -1,0 +1,23 @@
+Tenant: pharma-a
+Allowed Roles: analyst
+Product: P010
+Region: East
+Year: 2026
+Quarter: Q4
+Classification: internal
+
+Product ID: P010
+Product Name: Insulin
+Therapeutic Area: Antidiabetic
+Synthetic Indication: Diabetes management
+Dosage Form: Injection
+
+Insulin demonstrated strong synthetic commercial performance
+during Q4 2026.
+
+The product showed significant demand across the East region.
+Sales performance remained consistent with the synthetic business
+targets for the reporting period.
+
+This document contains synthetic pharmaceutical product information
+created for the Pharma RAG evaluation system.

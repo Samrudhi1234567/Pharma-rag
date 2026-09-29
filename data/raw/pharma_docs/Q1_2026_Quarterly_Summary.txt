@@ -1,0 +1,24 @@
+Tenant: pharma-a
+Allowed Roles: sales_manager, analyst
+Product: P007
+Year: 2026
+Quarter: Q1
+Classification: internal
+
+Quarterly Business Summary
+==========================
+
+Quarter: Q1
+Year: 2026
+
+Product P007 delivered strong synthetic revenue
+performance during Q1.
+
+Revenue performance remained above the synthetic target
+for the reporting period.
+
+The product demonstrated stable demand across multiple
+regions.
+
+This document contains synthetic quarterly information
+created for the Pharma RAG evaluation system.

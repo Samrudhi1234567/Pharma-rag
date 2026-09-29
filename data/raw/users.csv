@@ -1,0 +1,9 @@
+username,tenant_id,role
+alice,pharma-a,admin
+john,pharma-a,sales_manager
+sam,pharma-a,analyst
+raj,pharma-a,viewer
+bob,pharma-b,admin
+emma,pharma-b,sales_manager
+alex,pharma-b,analyst
+mike,pharma-b,viewer

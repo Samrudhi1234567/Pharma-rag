@@ -1,0 +1,24 @@
+Tenant: pharma-a
+Allowed Roles: sales_manager, analyst
+Product: P001
+Region: India
+State: Karnataka
+Year: 2026
+Quarter: Q2
+Classification: internal
+
+State Sales Performance Report
+==============================
+
+State: Karnataka
+Quarter: Q2
+Year: 2026
+
+Product P001 recorded the strongest synthetic
+sales performance in Karnataka during Q2.
+
+The product demonstrated positive revenue growth and
+performed above the synthetic sales target.
+
+This document contains synthetic pharmaceutical sales
+information created for the Pharma RAG evaluation system.

@@ -1,0 +1,25 @@
+Tenant: pharma-a
+Allowed Roles: sales_manager, analyst
+Product: P007
+Region: North
+Year: 2026
+Quarter: Q1
+Classification: internal
+
+Regional Sales Report
+=====================
+
+Region: North
+Quarter: Q1
+Year: 2026
+
+Product P007 achieved the highest synthetic revenue
+performance in the North region during Q1.
+
+The strongest state-level contribution came from Delhi.
+
+Sales performance exceeded the synthetic quarterly target
+during the reporting period.
+
+This report contains synthetic sales information created
+for the Pharma RAG evaluation system.

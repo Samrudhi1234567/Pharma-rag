@@ -1,0 +1,27 @@
+Tenant: pharma-a
+Allowed Roles: admin
+Year: 2026
+Classification: confidential
+
+Standard Operating Procedure
+============================
+
+Document Access Policy
+
+Only authenticated users belonging to the authorized
+tenant may access this information.
+
+Administrative documents are restricted to users with
+the appropriate administrative role.
+
+Tenant information must always be derived from the
+authenticated identity.
+
+Users must not be allowed to override tenant scope
+through API request parameters.
+
+All document access must respect tenant and role-based
+authorization policies.
+
+This SOP contains synthetic security information created
+for the Pharma RAG evaluation system.

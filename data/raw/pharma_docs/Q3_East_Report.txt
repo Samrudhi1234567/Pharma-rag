@@ -1,0 +1,25 @@
+Tenant: pharma-b
+Allowed Roles: sales_manager, analyst
+Product: P003
+Region: East
+Year: 2026
+Quarter: Q3
+Classification: internal
+
+Regional Sales Report
+=====================
+
+Region: East
+Quarter: Q3
+Year: 2026
+
+Product P003 achieved the highest synthetic revenue
+performance in the East region during Q3.
+
+The strongest state-level contribution came from West Bengal.
+
+Sales performance exceeded the synthetic quarterly target
+during the reporting period.
+
+This report contains synthetic sales information created
+for the Pharma RAG evaluation system.

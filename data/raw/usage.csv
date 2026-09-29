@@ -1,0 +1,2001 @@
+tenant_id,product_id,synthetic_indication,region,age_band,usage_category,volume
+pharma-a,P001,Vitamin D supplementation,East,31-45,Hospital,242
+pharma-a,P018,Bacterial infections,West,18-30,Prescription,195
+pharma-a,P008,Diabetes management,North,31-45,Acute Care,529
+pharma-a,P015,Cardiovascular protection,East,18-30,Hospital,814
+pharma-b,P011,Allergy management,South,31-45,Retail,204
+pharma-a,P013,Bacterial infections,East,46-60,Acute Care,370
+pharma-a,P015,Diabetes management,North,61+,Prescription,665
+pharma-b,P020,Nutritional supplementation,East,31-45,Prescription,146
+pharma-a,P010,Bacterial infections,South,18-30,Chronic Care,384
+pharma-b,P012,Type 2 diabetes,East,46-60,Hospital,786
+pharma-b,P003,Cardiovascular protection,South,31-45,Hospital,573
+pharma-b,P009,Blood clot prevention,South,46-60,Prescription,334
+pharma-a,P011,Acid reflux management,East,18-30,Hospital,680
+pharma-b,P007,Blood clot prevention,West,61+,Chronic Care,246
+pharma-b,P005,Pain and inflammation,East,61+,Acute Care,508
+pharma-b,P008,Type 2 diabetes,West,18-30,Prescription,981
+pharma-a,P005,Blood clot prevention,South,61+,Acute Care,165
+pharma-b,P013,Cardiovascular protection,West,46-60,Acute Care,981
+pharma-a,P004,Blood clot prevention,East,46-60,Prescription,400
+pharma-b,P006,Hypertension management,North,46-60,Acute Care,880
+pharma-a,P017,Bacterial infections,East,31-45,Hospital,482
+pharma-a,P018,Calcium supplementation,North,46-60,Chronic Care,119
+pharma-a,P012,Nutritional supplementation,East,31-45,Prescription,346
+pharma-a,P003,Vitamin D supplementation,West,18-30,Acute Care,884
+pharma-a,P005,Blood clot prevention,West,31-45,Retail,640
+pharma-b,P007,Diabetes management,South,46-60,Chronic Care,787
+pharma-b,P015,Diabetes management,West,18-30,Hospital,330
+pharma-a,P011,Fever and pain management,South,31-45,Prescription,172
+pharma-a,P008,Bacterial infections,North,46-60,Prescription,626
+pharma-a,P009,Blood clot prevention,West,31-45,Acute Care,235
+pharma-b,P008,Calcium supplementation,West,61+,Hospital,196
+pharma-a,P014,Cholesterol management,West,61+,Chronic Care,984
+pharma-a,P004,Fever and pain management,West,46-60,Prescription,354
+pharma-a,P007,Diabetes management,West,31-45,Chronic Care,287
+pharma-b,P015,Pain and inflammation,North,61+,Acute Care,200
+pharma-a,P018,Nutritional supplementation,North,18-30,Hospital,270
+pharma-b,P016,Hypertension management,South,61+,Prescription,268
+pharma-b,P001,Acid reflux management,East,61+,Retail,533
+pharma-b,P005,Pain and inflammation,East,31-45,Prescription,693
+pharma-a,P011,Fever and pain management,North,61+,Acute Care,973
+pharma-a,P002,Diabetes management,North,31-45,Prescription,709
+pharma-a,P008,Acid reflux management,North,31-45,Acute Care,708
+pharma-a,P020,Bacterial infections,West,46-60,Retail,309
+pharma-b,P008,Allergy management,West,31-45,Retail,568
+pharma-b,P003,Fever and pain management,West,18-30,Prescription,650
+pharma-a,P017,Allergy management,South,46-60,Prescription,1000
+pharma-a,P012,Allergy management,South,61+,Acute Care,820
+pharma-b,P020,Calcium supplementation,North,46-60,Prescription,999
+pharma-a,P009,Bacterial infections,North,31-45,Retail,388
+pharma-a,P011,Pain and inflammation,East,61+,Retail,966
+pharma-a,P003,Blood clot prevention,West,46-60,Prescription,103
+pharma-b,P005,Blood clot prevention,East,31-45,Chronic Care,664
+pharma-b,P018,Fever and pain management,North,18-30,Hospital,658
+pharma-a,P012,Cardiovascular protection,South,61+,Hospital,142
+pharma-b,P012,Calcium supplementation,North,46-60,Hospital,798
+pharma-a,P004,Cholesterol management,West,31-45,Hospital,985
+pharma-a,P006,Acid reflux management,North,31-45,Retail,901
+pharma-b,P008,Allergy management,South,18-30,Chronic Care,993
+pharma-a,P016,Pain and inflammation,South,61+,Retail,412
+pharma-a,P008,Fever and pain management,South,61+,Retail,385
+pharma-a,P009,Cholesterol management,West,46-60,Prescription,218
+pharma-b,P006,Cardiovascular protection,East,18-30,Prescription,710
+pharma-b,P012,Vitamin D supplementation,East,61+,Acute Care,623
+pharma-a,P013,Cardiovascular protection,South,46-60,Prescription,825
+pharma-b,P001,Diabetes management,South,46-60,Chronic Care,171
+pharma-b,P020,Cholesterol management,North,46-60,Acute Care,416
+pharma-b,P011,Acid reflux management,East,31-45,Hospital,530
+pharma-b,P006,Cardiovascular protection,East,61+,Acute Care,953
+pharma-a,P010,Allergy management,South,61+,Acute Care,721
+pharma-b,P015,Hypertension management,West,31-45,Acute Care,584
+pharma-a,P003,Allergy management,East,18-30,Hospital,788
+pharma-b,P008,Calcium supplementation,South,31-45,Prescription,147
+pharma-a,P016,Cardiovascular protection,North,61+,Chronic Care,744
+pharma-a,P013,Hypertension management,West,31-45,Hospital,771
+pharma-a,P004,Calcium supplementation,West,31-45,Hospital,923
+pharma-b,P002,Diabetes management,South,18-30,Chronic Care,236
+pharma-b,P017,Diabetes management,East,61+,Acute Care,934
+pharma-b,P018,Hypertension management,South,61+,Chronic Care,365
+pharma-a,P009,Calcium supplementation,West,31-45,Retail,550
+pharma-a,P010,Pain and inflammation,East,46-60,Retail,653
+pharma-a,P005,Type 2 diabetes,South,61+,Hospital,823
+pharma-a,P003,Acid reflux management,West,46-60,Acute Care,577
+pharma-b,P002,Pain and inflammation,West,61+,Acute Care,812
+pharma-a,P019,Acid reflux management,West,18-30,Retail,405
+pharma-b,P014,Diabetes management,South,61+,Hospital,379
+pharma-b,P016,Fever and pain management,West,46-60,Chronic Care,841
+pharma-a,P015,Type 2 diabetes,North,61+,Acute Care,677
+pharma-a,P003,Blood clot prevention,West,31-45,Chronic Care,286
+pharma-a,P009,Acid reflux management,East,31-45,Chronic Care,434
+pharma-b,P013,Allergy management,West,46-60,Prescription,581
+pharma-a,P018,Fever and pain management,East,31-45,Prescription,899
+pharma-a,P001,Pain and inflammation,South,18-30,Acute Care,256
+pharma-a,P005,Hypertension management,North,31-45,Chronic Care,816
+pharma-b,P012,Type 2 diabetes,North,31-45,Retail,210
+pharma-a,P010,Cardiovascular protection,West,61+,Hospital,177
+pharma-a,P004,Vitamin D supplementation,East,18-30,Acute Care,901
+pharma-a,P012,Diabetes management,West,46-60,Prescription,618
+pharma-b,P001,Nutritional supplementation,West,61+,Prescription,543
+pharma-b,P015,Vitamin D supplementation,South,61+,Hospital,851
+pharma-b,P020,Calcium supplementation,West,61+,Chronic Care,945
+pharma-b,P011,Nutritional supplementation,South,18-30,Retail,561
+pharma-a,P015,Cardiovascular protection,West,46-60,Prescription,606
+pharma-b,P006,Hypertension management,South,46-60,Retail,448
+pharma-b,P020,Vitamin D supplementation,East,18-30,Acute Care,295
+pharma-a,P008,Vitamin D supplementation,West,61+,Acute Care,876
+pharma-a,P016,Blood clot prevention,West,61+,Prescription,195
+pharma-b,P008,Acid reflux management,South,46-60,Acute Care,477
+pharma-b,P018,Diabetes management,East,61+,Acute Care,438
+pharma-b,P015,Allergy management,East,46-60,Hospital,223
+pharma-a,P011,Bacterial infections,South,31-45,Hospital,856
+pharma-b,P009,Vitamin D supplementation,East,18-30,Hospital,403
+pharma-a,P012,Type 2 diabetes,East,18-30,Acute Care,229
+pharma-b,P002,Fever and pain management,East,31-45,Chronic Care,205
+pharma-a,P019,Allergy management,West,61+,Chronic Care,448
+pharma-a,P002,Allergy management,West,18-30,Prescription,510
+pharma-b,P003,Cardiovascular protection,North,31-45,Hospital,930
+pharma-b,P003,Pain and inflammation,North,61+,Acute Care,710
+pharma-a,P017,Acid reflux management,West,61+,Retail,980
+pharma-b,P010,Cardiovascular protection,North,18-30,Hospital,740
+pharma-a,P009,Blood clot prevention,North,31-45,Hospital,277
+pharma-a,P006,Fever and pain management,West,61+,Acute Care,581
+pharma-b,P002,Pain and inflammation,East,46-60,Chronic Care,172
+pharma-a,P009,Calcium supplementation,South,61+,Prescription,657
+pharma-a,P005,Allergy management,South,18-30,Prescription,269
+pharma-b,P020,Vitamin D supplementation,East,61+,Prescription,579
+pharma-b,P013,Allergy management,West,61+,Prescription,712
+pharma-a,P014,Vitamin D supplementation,East,46-60,Prescription,193
+pharma-a,P019,Cardiovascular protection,North,46-60,Acute Care,141
+pharma-a,P016,Diabetes management,West,46-60,Hospital,699
+pharma-b,P016,Bacterial infections,West,46-60,Chronic Care,441
+pharma-b,P004,Nutritional supplementation,South,46-60,Chronic Care,810
+pharma-b,P010,Blood clot prevention,West,18-30,Chronic Care,190
+pharma-b,P009,Cholesterol management,North,61+,Acute Care,944
+pharma-a,P018,Hypertension management,West,18-30,Hospital,630
+pharma-b,P020,Calcium supplementation,West,61+,Prescription,308
+pharma-b,P018,Type 2 diabetes,East,61+,Chronic Care,224
+pharma-a,P020,Calcium supplementation,South,31-45,Retail,664
+pharma-a,P018,Acid reflux management,North,31-45,Prescription,572
+pharma-a,P005,Hypertension management,East,46-60,Chronic Care,954
+pharma-b,P016,Pain and inflammation,West,31-45,Chronic Care,295
+pharma-a,P003,Allergy management,West,46-60,Acute Care,373
+pharma-a,P010,Vitamin D supplementation,East,61+,Hospital,557
+pharma-b,P012,Cholesterol management,West,61+,Retail,990
+pharma-a,P008,Cardiovascular protection,West,31-45,Chronic Care,144
+pharma-b,P016,Vitamin D supplementation,West,61+,Hospital,607
+pharma-a,P005,Diabetes management,East,18-30,Chronic Care,202
+pharma-b,P001,Vitamin D supplementation,South,61+,Hospital,176
+pharma-b,P009,Cholesterol management,West,18-30,Retail,972
+pharma-b,P011,Blood clot prevention,West,18-30,Acute Care,170
+pharma-a,P010,Pain and inflammation,North,61+,Prescription,878
+pharma-a,P015,Type 2 diabetes,East,18-30,Prescription,432
+pharma-a,P010,Cholesterol management,East,61+,Hospital,350
+pharma-b,P019,Blood clot prevention,South,31-45,Hospital,180
+pharma-b,P020,Blood clot prevention,South,61+,Acute Care,246
+pharma-a,P015,Blood clot prevention,East,61+,Retail,782
+pharma-a,P015,Allergy management,South,18-30,Chronic Care,453
+pharma-b,P014,Vitamin D supplementation,East,61+,Retail,303
+pharma-b,P016,Bacterial infections,South,61+,Acute Care,467
+pharma-b,P010,Fever and pain management,West,46-60,Prescription,679
+pharma-a,P020,Vitamin D supplementation,West,46-60,Hospital,721
+pharma-b,P008,Blood clot prevention,South,46-60,Hospital,743
+pharma-a,P002,Allergy management,West,18-30,Acute Care,473
+pharma-a,P003,Allergy management,East,61+,Hospital,305
+pharma-a,P018,Cholesterol management,East,31-45,Retail,944
+pharma-b,P010,Vitamin D supplementation,East,18-30,Chronic Care,177
+pharma-a,P008,Nutritional supplementation,West,46-60,Prescription,909
+pharma-b,P001,Allergy management,North,61+,Retail,788
+pharma-b,P019,Acid reflux management,East,18-30,Hospital,582
+pharma-a,P020,Diabetes management,East,31-45,Prescription,750
+pharma-b,P010,Blood clot prevention,West,18-30,Hospital,146
+pharma-a,P010,Hypertension management,North,18-30,Hospital,650
+pharma-a,P013,Hypertension management,East,61+,Acute Care,860
+pharma-a,P014,Blood clot prevention,North,61+,Acute Care,517
+pharma-b,P002,Vitamin D supplementation,East,31-45,Chronic Care,555
+pharma-a,P012,Bacterial infections,East,46-60,Prescription,507
+pharma-b,P007,Bacterial infections,West,18-30,Hospital,757
+pharma-a,P002,Calcium supplementation,East,31-45,Hospital,905
+pharma-a,P003,Nutritional supplementation,South,31-45,Hospital,436
+pharma-a,P020,Fever and pain management,East,31-45,Hospital,653
+pharma-b,P006,Bacterial infections,North,31-45,Prescription,466
+pharma-a,P019,Cholesterol management,North,31-45,Retail,153
+pharma-a,P014,Diabetes management,North,18-30,Chronic Care,559
+pharma-b,P017,Cardiovascular protection,North,61+,Acute Care,326
+pharma-a,P017,Allergy management,West,18-30,Prescription,590
+pharma-b,P014,Blood clot prevention,North,61+,Chronic Care,175
+pharma-a,P011,Cardiovascular protection,South,18-30,Hospital,381
+pharma-b,P013,Cardiovascular protection,East,61+,Acute Care,719
+pharma-b,P004,Calcium supplementation,North,31-45,Chronic Care,562
+pharma-a,P014,Cholesterol management,West,61+,Chronic Care,847
+pharma-a,P011,Acid reflux management,East,46-60,Retail,256
+pharma-b,P003,Bacterial infections,North,18-30,Chronic Care,198
+pharma-b,P005,Diabetes management,North,46-60,Prescription,520
+pharma-b,P014,Nutritional supplementation,North,46-60,Acute Care,419
+pharma-b,P004,Cardiovascular protection,South,31-45,Chronic Care,329
+pharma-a,P012,Nutritional supplementation,East,18-30,Retail,687
+pharma-a,P014,Nutritional supplementation,North,46-60,Prescription,284
+pharma-b,P010,Cholesterol management,East,18-30,Hospital,990
+pharma-a,P019,Blood clot prevention,West,18-30,Hospital,858
+pharma-a,P003,Vitamin D supplementation,South,61+,Chronic Care,564
+pharma-b,P006,Cholesterol management,East,46-60,Acute Care,710
+pharma-a,P002,Type 2 diabetes,South,18-30,Prescription,378
+pharma-b,P014,Hypertension management,West,61+,Retail,320
+pharma-a,P012,Acid reflux management,North,46-60,Acute Care,598
+pharma-b,P002,Pain and inflammation,West,18-30,Prescription,309
+pharma-b,P007,Calcium supplementation,South,46-60,Retail,435
+pharma-a,P001,Hypertension management,West,31-45,Hospital,489
+pharma-a,P017,Diabetes management,East,18-30,Chronic Care,982
+pharma-a,P014,Fever and pain management,West,18-30,Retail,689
+pharma-b,P019,Acid reflux management,West,46-60,Prescription,514
+pharma-a,P011,Type 2 diabetes,West,46-60,Prescription,547
+pharma-a,P008,Acid reflux management,West,18-30,Chronic Care,991
+pharma-b,P011,Pain and inflammation,East,31-45,Prescription,622
+pharma-a,P017,Diabetes management,South,46-60,Retail,844
+pharma-a,P008,Bacterial infections,South,46-60,Hospital,277
+pharma-a,P003,Type 2 diabetes,West,61+,Acute Care,878
+pharma-b,P019,Blood clot prevention,East,46-60,Hospital,550
+pharma-a,P016,Hypertension management,East,46-60,Acute Care,157
+pharma-b,P017,Bacterial infections,East,61+,Chronic Care,138
+pharma-a,P012,Nutritional supplementation,East,18-30,Prescription,729
+pharma-b,P015,Cardiovascular protection,North,61+,Acute Care,767
+pharma-a,P011,Cardiovascular protection,West,31-45,Prescription,561
+pharma-a,P011,Vitamin D supplementation,North,31-45,Prescription,353
+pharma-b,P015,Diabetes management,South,46-60,Retail,389
+pharma-b,P014,Calcium supplementation,East,18-30,Retail,167
+pharma-b,P004,Diabetes management,West,46-60,Retail,841
+pharma-a,P011,Bacterial infections,South,46-60,Retail,771
+pharma-b,P005,Cardiovascular protection,North,46-60,Acute Care,485
+pharma-b,P005,Blood clot prevention,North,61+,Acute Care,470
+pharma-a,P012,Allergy management,South,31-45,Retail,884
+pharma-b,P007,Pain and inflammation,South,31-45,Prescription,402
+pharma-a,P017,Calcium supplementation,North,46-60,Acute Care,234
+pharma-b,P005,Type 2 diabetes,South,31-45,Chronic Care,144
+pharma-b,P012,Blood clot prevention,South,61+,Acute Care,391
+pharma-b,P008,Diabetes management,South,46-60,Chronic Care,955
+pharma-a,P012,Blood clot prevention,West,61+,Retail,896
+pharma-b,P017,Diabetes management,West,31-45,Hospital,920
+pharma-a,P009,Fever and pain management,West,46-60,Acute Care,205
+pharma-a,P010,Bacterial infections,South,46-60,Chronic Care,625
+pharma-a,P014,Bacterial infections,South,61+,Retail,127
+pharma-b,P002,Acid reflux management,East,31-45,Chronic Care,183
+pharma-b,P008,Fever and pain management,East,18-30,Retail,910
+pharma-a,P005,Fever and pain management,East,61+,Hospital,877
+pharma-b,P015,Cardiovascular protection,North,18-30,Prescription,362
+pharma-a,P005,Diabetes management,West,18-30,Retail,343
+pharma-b,P004,Fever and pain management,South,61+,Acute Care,568
+pharma-a,P004,Nutritional supplementation,West,18-30,Acute Care,688
+pharma-a,P005,Allergy management,West,18-30,Acute Care,461
+pharma-a,P019,Acid reflux management,South,18-30,Acute Care,469
+pharma-a,P017,Diabetes management,North,61+,Chronic Care,144
+pharma-b,P012,Allergy management,North,46-60,Prescription,453
+pharma-a,P004,Calcium supplementation,East,31-45,Prescription,460
+pharma-b,P006,Nutritional supplementation,West,61+,Hospital,930
+pharma-a,P003,Vitamin D supplementation,West,18-30,Retail,306
+pharma-a,P007,Fever and pain management,East,46-60,Acute Care,507
+pharma-b,P009,Fever and pain management,South,46-60,Retail,982
+pharma-a,P011,Allergy management,North,46-60,Chronic Care,509
+pharma-b,P013,Cholesterol management,South,61+,Chronic Care,476
+pharma-b,P003,Vitamin D supplementation,West,18-30,Chronic Care,716
+pharma-a,P018,Allergy management,East,18-30,Prescription,435
+pharma-b,P010,Hypertension management,West,31-45,Chronic Care,459
+pharma-b,P002,Vitamin D supplementation,East,61+,Retail,754
+pharma-a,P003,Blood clot prevention,West,46-60,Acute Care,920
+pharma-a,P001,Type 2 diabetes,West,18-30,Hospital,168
+pharma-a,P012,Cholesterol management,West,18-30,Acute Care,257
+pharma-b,P012,Cholesterol management,West,18-30,Acute Care,240
+pharma-b,P013,Cholesterol management,East,31-45,Prescription,126
+pharma-a,P016,Diabetes management,West,18-30,Retail,893
+pharma-b,P015,Pain and inflammation,East,61+,Hospital,225
+pharma-a,P003,Hypertension management,South,61+,Prescription,929
+pharma-b,P012,Vitamin D supplementation,North,46-60,Retail,971
+pharma-a,P006,Calcium supplementation,East,31-45,Prescription,305
+pharma-a,P008,Calcium supplementation,West,18-30,Retail,667
+pharma-b,P015,Calcium supplementation,South,18-30,Prescription,416
+pharma-b,P016,Diabetes management,West,61+,Acute Care,175
+pharma-a,P011,Blood clot prevention,North,61+,Chronic Care,796
+pharma-b,P005,Nutritional supplementation,South,31-45,Chronic Care,614
+pharma-a,P004,Diabetes management,South,46-60,Hospital,265
+pharma-b,P008,Cholesterol management,East,18-30,Retail,301
+pharma-b,P005,Blood clot prevention,East,18-30,Acute Care,756
+pharma-a,P019,Cardiovascular protection,South,31-45,Acute Care,837
+pharma-b,P019,Fever and pain management,North,18-30,Prescription,756
+pharma-b,P007,Calcium supplementation,West,18-30,Chronic Care,742
+pharma-b,P010,Hypertension management,South,61+,Retail,564
+pharma-a,P002,Type 2 diabetes,West,61+,Chronic Care,575
+pharma-a,P011,Cardiovascular protection,South,46-60,Retail,851
+pharma-b,P013,Type 2 diabetes,East,18-30,Retail,347
+pharma-b,P004,Allergy management,West,31-45,Hospital,199
+pharma-a,P010,Acid reflux management,West,31-45,Hospital,933
+pharma-b,P019,Vitamin D supplementation,East,31-45,Hospital,610
+pharma-b,P016,Allergy management,West,18-30,Prescription,502
+pharma-b,P008,Pain and inflammation,East,18-30,Prescription,388
+pharma-b,P020,Nutritional supplementation,West,46-60,Acute Care,108
+pharma-a,P014,Type 2 diabetes,East,46-60,Chronic Care,474
+pharma-a,P013,Fever and pain management,South,46-60,Acute Care,395
+pharma-a,P013,Diabetes management,West,46-60,Acute Care,796
+pharma-a,P005,Bacterial infections,West,46-60,Retail,671
+pharma-b,P005,Pain and inflammation,West,18-30,Prescription,139
+pharma-a,P011,Calcium supplementation,West,61+,Hospital,720
+pharma-a,P011,Cardiovascular protection,East,31-45,Chronic Care,731
+pharma-b,P019,Cholesterol management,West,46-60,Chronic Care,935
+pharma-a,P012,Cholesterol management,North,61+,Acute Care,415
+pharma-a,P020,Hypertension management,East,31-45,Prescription,697
+pharma-b,P006,Diabetes management,West,31-45,Hospital,132
+pharma-a,P007,Fever and pain management,West,46-60,Chronic Care,255
+pharma-b,P007,Acid reflux management,West,18-30,Hospital,631
+pharma-a,P018,Cholesterol management,West,61+,Retail,277
+pharma-b,P018,Cholesterol management,East,46-60,Acute Care,595
+pharma-a,P008,Allergy management,East,31-45,Retail,889
+pharma-b,P007,Vitamin D supplementation,West,46-60,Chronic Care,457
+pharma-b,P010,Bacterial infections,West,61+,Retail,891
+pharma-a,P010,Fever and pain management,East,18-30,Retail,552
+pharma-b,P016,Pain and inflammation,South,46-60,Acute Care,812
+pharma-b,P005,Bacterial infections,South,31-45,Prescription,785
+pharma-a,P008,Fever and pain management,North,61+,Retail,834
+pharma-b,P004,Blood clot prevention,South,18-30,Acute Care,261
+pharma-b,P016,Hypertension management,South,46-60,Retail,392
+pharma-a,P003,Blood clot prevention,South,18-30,Hospital,527
+pharma-a,P002,Nutritional supplementation,West,61+,Hospital,866
+pharma-b,P002,Fever and pain management,East,18-30,Retail,391
+pharma-b,P018,Diabetes management,West,31-45,Acute Care,579
+pharma-b,P007,Calcium supplementation,North,46-60,Hospital,848
+pharma-b,P009,Vitamin D supplementation,South,18-30,Retail,909
+pharma-b,P019,Blood clot prevention,South,31-45,Acute Care,976
+pharma-b,P014,Diabetes management,East,18-30,Chronic Care,785
+pharma-a,P006,Type 2 diabetes,West,46-60,Hospital,106
+pharma-b,P013,Pain and inflammation,West,46-60,Retail,409
+pharma-a,P009,Blood clot prevention,East,31-45,Prescription,783
+pharma-a,P015,Allergy management,South,61+,Acute Care,820
+pharma-b,P004,Blood clot prevention,East,46-60,Acute Care,326
+pharma-a,P005,Hypertension management,South,61+,Acute Care,482
+pharma-b,P018,Hypertension management,South,31-45,Acute Care,994
+pharma-a,P017,Hypertension management,East,18-30,Acute Care,214
+pharma-a,P018,Diabetes management,South,31-45,Hospital,435
+pharma-b,P004,Blood clot prevention,South,61+,Prescription,622
+pharma-b,P002,Hypertension management,South,61+,Chronic Care,677
+pharma-a,P018,Hypertension management,East,18-30,Chronic Care,360
+pharma-a,P007,Cardiovascular protection,North,18-30,Chronic Care,452
+pharma-a,P018,Fever and pain management,North,61+,Prescription,393
+pharma-b,P006,Calcium supplementation,South,61+,Retail,491
+pharma-b,P013,Acid reflux management,North,31-45,Retail,221
+pharma-a,P018,Acid reflux management,South,31-45,Prescription,874
+pharma-a,P010,Hypertension management,West,61+,Hospital,353
+pharma-b,P012,Type 2 diabetes,East,31-45,Prescription,132
+pharma-b,P020,Calcium supplementation,North,31-45,Hospital,168
+pharma-a,P020,Fever and pain management,West,18-30,Hospital,858
+pharma-a,P013,Hypertension management,South,31-45,Prescription,243
+pharma-b,P008,Nutritional supplementation,East,46-60,Hospital,409
+pharma-a,P017,Pain and inflammation,West,46-60,Retail,162
+pharma-a,P014,Diabetes management,West,18-30,Retail,758
+pharma-b,P017,Cholesterol management,West,61+,Hospital,407
+pharma-b,P006,Calcium supplementation,West,31-45,Hospital,407
+pharma-a,P015,Fever and pain management,West,61+,Acute Care,642
+pharma-a,P013,Pain and inflammation,East,31-45,Retail,762
+pharma-a,P015,Nutritional supplementation,East,18-30,Acute Care,841
+pharma-a,P002,Allergy management,West,18-30,Prescription,292
+pharma-a,P016,Pain and inflammation,East,46-60,Prescription,316
+pharma-a,P004,Vitamin D supplementation,West,31-45,Acute Care,820
+pharma-a,P013,Pain and inflammation,East,46-60,Chronic Care,577
+pharma-b,P010,Allergy management,East,61+,Chronic Care,200
+pharma-b,P011,Pain and inflammation,East,46-60,Chronic Care,146
+pharma-a,P005,Fever and pain management,East,61+,Retail,256
+pharma-a,P011,Pain and inflammation,West,31-45,Chronic Care,663
+pharma-b,P009,Calcium supplementation,West,61+,Chronic Care,272
+pharma-b,P006,Type 2 diabetes,West,31-45,Acute Care,757
+pharma-a,P017,Fever and pain management,North,18-30,Prescription,522
+pharma-a,P008,Bacterial infections,South,18-30,Hospital,617
+pharma-b,P012,Fever and pain management,West,61+,Prescription,106
+pharma-b,P001,Fever and pain management,East,46-60,Prescription,614
+pharma-b,P006,Bacterial infections,North,31-45,Hospital,296
+pharma-b,P012,Allergy management,West,18-30,Retail,515
+pharma-b,P019,Pain and inflammation,South,46-60,Prescription,769
+pharma-a,P003,Acid reflux management,West,61+,Acute Care,587
+pharma-a,P001,Vitamin D supplementation,South,18-30,Chronic Care,965
+pharma-b,P011,Cardiovascular protection,North,18-30,Hospital,316
+pharma-b,P009,Fever and pain management,North,46-60,Acute Care,677
+pharma-a,P006,Nutritional supplementation,East,18-30,Hospital,701
+pharma-a,P013,Bacterial infections,East,31-45,Acute Care,346
+pharma-b,P018,Cholesterol management,West,31-45,Prescription,612
+pharma-b,P002,Bacterial infections,West,31-45,Prescription,448
+pharma-b,P011,Fever and pain management,East,61+,Chronic Care,333
+pharma-b,P018,Acid reflux management,West,31-45,Acute Care,776
+pharma-b,P003,Calcium supplementation,East,31-45,Prescription,184
+pharma-b,P005,Acid reflux management,South,61+,Retail,469
+pharma-a,P003,Fever and pain management,East,61+,Retail,879
+pharma-b,P004,Type 2 diabetes,North,31-45,Chronic Care,559
+pharma-b,P004,Fever and pain management,North,46-60,Acute Care,195
+pharma-b,P013,Fever and pain management,East,61+,Chronic Care,897
+pharma-a,P018,Pain and inflammation,South,61+,Hospital,242
+pharma-b,P010,Allergy management,West,31-45,Prescription,271
+pharma-b,P009,Acid reflux management,East,61+,Prescription,469
+pharma-b,P008,Vitamin D supplementation,West,31-45,Chronic Care,209
+pharma-a,P010,Fever and pain management,West,46-60,Acute Care,489
+pharma-b,P015,Cholesterol management,West,31-45,Retail,428
+pharma-a,P016,Cholesterol management,South,61+,Retail,398
+pharma-b,P019,Calcium supplementation,South,46-60,Chronic Care,387
+pharma-b,P012,Bacterial infections,South,31-45,Acute Care,127
+pharma-b,P007,Hypertension management,East,18-30,Chronic Care,789
+pharma-b,P005,Blood clot prevention,East,31-45,Retail,774
+pharma-a,P014,Calcium supplementation,West,18-30,Chronic Care,712
+pharma-b,P019,Acid reflux management,West,18-30,Retail,818
+pharma-a,P004,Calcium supplementation,South,46-60,Hospital,762
+pharma-a,P019,Blood clot prevention,West,46-60,Chronic Care,208
+pharma-a,P004,Allergy management,South,31-45,Chronic Care,483
+pharma-b,P015,Calcium supplementation,South,46-60,Prescription,594
+pharma-a,P010,Acid reflux management,North,18-30,Hospital,456
+pharma-b,P011,Hypertension management,South,61+,Retail,587
+pharma-a,P015,Vitamin D supplementation,West,46-60,Prescription,407
+pharma-a,P004,Fever and pain management,East,18-30,Hospital,858
+pharma-a,P017,Type 2 diabetes,South,46-60,Acute Care,536
+pharma-b,P008,Calcium supplementation,West,31-45,Hospital,755
+pharma-b,P013,Fever and pain management,South,61+,Acute Care,539
+pharma-b,P001,Vitamin D supplementation,South,31-45,Retail,870
+pharma-a,P019,Bacterial infections,South,46-60,Retail,301
+pharma-b,P004,Allergy management,West,46-60,Acute Care,497
+pharma-b,P019,Bacterial infections,East,46-60,Chronic Care,732
+pharma-a,P010,Cardiovascular protection,North,31-45,Retail,220
+pharma-a,P010,Bacterial infections,South,46-60,Hospital,623
+pharma-b,P014,Cardiovascular protection,South,61+,Chronic Care,290
+pharma-b,P018,Vitamin D supplementation,South,31-45,Chronic Care,395
+pharma-a,P006,Cholesterol management,West,18-30,Retail,109
+pharma-b,P005,Pain and inflammation,West,61+,Chronic Care,801
+pharma-b,P014,Vitamin D supplementation,West,61+,Hospital,184
+pharma-a,P008,Allergy management,North,46-60,Hospital,650
+pharma-b,P006,Calcium supplementation,West,61+,Acute Care,623
+pharma-a,P019,Bacterial infections,East,46-60,Acute Care,942
+pharma-a,P015,Diabetes management,South,61+,Prescription,853
+pharma-a,P010,Nutritional supplementation,North,61+,Retail,456
+pharma-a,P015,Nutritional supplementation,North,31-45,Hospital,930
+pharma-b,P020,Blood clot prevention,West,31-45,Acute Care,242
+pharma-a,P007,Calcium supplementation,North,46-60,Acute Care,387
+pharma-a,P011,Vitamin D supplementation,East,46-60,Acute Care,373
+pharma-a,P005,Calcium supplementation,West,18-30,Retail,987
+pharma-a,P005,Pain and inflammation,South,46-60,Hospital,879
+pharma-b,P016,Type 2 diabetes,East,61+,Chronic Care,562
+pharma-a,P003,Acid reflux management,East,46-60,Chronic Care,599
+pharma-b,P019,Fever and pain management,North,61+,Retail,970
+pharma-a,P018,Acid reflux management,South,61+,Hospital,606
+pharma-b,P011,Nutritional supplementation,East,46-60,Acute Care,691
+pharma-a,P019,Nutritional supplementation,West,46-60,Prescription,147
+pharma-a,P015,Fever and pain management,North,31-45,Chronic Care,567
+pharma-a,P014,Pain and inflammation,South,46-60,Hospital,995
+pharma-b,P003,Blood clot prevention,East,46-60,Prescription,480
+pharma-a,P002,Acid reflux management,East,31-45,Chronic Care,771
+pharma-a,P004,Fever and pain management,South,61+,Prescription,235
+pharma-a,P017,Blood clot prevention,West,18-30,Prescription,812
+pharma-b,P004,Nutritional supplementation,West,31-45,Chronic Care,172
+pharma-a,P013,Bacterial infections,North,18-30,Retail,476
+pharma-b,P005,Acid reflux management,South,31-45,Prescription,643
+pharma-a,P020,Blood clot prevention,South,61+,Retail,839
+pharma-a,P005,Acid reflux management,West,31-45,Prescription,202
+pharma-a,P004,Cardiovascular protection,West,46-60,Chronic Care,422
+pharma-a,P008,Allergy management,North,31-45,Acute Care,715
+pharma-b,P001,Nutritional supplementation,East,31-45,Acute Care,721
+pharma-a,P013,Allergy management,North,31-45,Chronic Care,495
+pharma-a,P008,Hypertension management,North,18-30,Retail,424
+pharma-a,P013,Nutritional supplementation,West,46-60,Acute Care,799
+pharma-a,P016,Calcium supplementation,North,18-30,Acute Care,169
+pharma-a,P009,Pain and inflammation,North,18-30,Chronic Care,618
+pharma-b,P017,Calcium supplementation,West,61+,Chronic Care,184
+pharma-a,P009,Bacterial infections,East,18-30,Acute Care,308
+pharma-a,P018,Cholesterol management,West,18-30,Retail,815
+pharma-b,P008,Fever and pain management,South,18-30,Chronic Care,218
+pharma-b,P020,Cardiovascular protection,North,46-60,Hospital,222
+pharma-a,P005,Vitamin D supplementation,North,31-45,Chronic Care,455
+pharma-b,P006,Cholesterol management,South,46-60,Prescription,889
+pharma-a,P011,Calcium supplementation,West,46-60,Acute Care,165
+pharma-b,P019,Blood clot prevention,North,61+,Chronic Care,623
+pharma-b,P002,Hypertension management,South,46-60,Hospital,361
+pharma-a,P019,Blood clot prevention,North,31-45,Acute Care,102
+pharma-a,P001,Pain and inflammation,North,61+,Retail,492
+pharma-a,P006,Nutritional supplementation,North,61+,Hospital,429
+pharma-a,P014,Vitamin D supplementation,East,46-60,Prescription,685
+pharma-b,P004,Diabetes management,North,31-45,Hospital,923
+pharma-a,P013,Bacterial infections,West,46-60,Retail,435
+pharma-a,P018,Hypertension management,North,46-60,Hospital,398
+pharma-b,P020,Pain and inflammation,West,46-60,Acute Care,605
+pharma-a,P018,Calcium supplementation,South,31-45,Prescription,519
+pharma-a,P008,Diabetes management,East,18-30,Retail,101
+pharma-b,P010,Bacterial infections,South,31-45,Chronic Care,603
+pharma-a,P005,Vitamin D supplementation,East,18-30,Prescription,337
+pharma-b,P012,Hypertension management,North,18-30,Acute Care,236
+pharma-b,P003,Cardiovascular protection,North,61+,Hospital,342
+pharma-b,P009,Nutritional supplementation,East,61+,Retail,425
+pharma-b,P009,Pain and inflammation,North,31-45,Hospital,898
+pharma-a,P005,Bacterial infections,South,61+,Chronic Care,421
+pharma-b,P004,Diabetes management,East,31-45,Chronic Care,415
+pharma-b,P009,Nutritional supplementation,North,18-30,Hospital,926
+pharma-b,P020,Fever and pain management,South,46-60,Hospital,193
+pharma-a,P012,Acid reflux management,North,46-60,Retail,939
+pharma-a,P001,Acid reflux management,West,31-45,Prescription,573
+pharma-a,P005,Bacterial infections,North,18-30,Hospital,233
+pharma-a,P013,Cholesterol management,North,46-60,Prescription,122
+pharma-a,P007,Blood clot prevention,West,31-45,Prescription,967
+pharma-b,P004,Fever and pain management,West,18-30,Hospital,687
+pharma-b,P013,Hypertension management,North,61+,Chronic Care,276
+pharma-b,P007,Type 2 diabetes,East,46-60,Chronic Care,252
+pharma-a,P020,Cardiovascular protection,South,46-60,Chronic Care,521
+pharma-b,P002,Bacterial infections,East,61+,Hospital,529
+pharma-a,P017,Pain and inflammation,North,61+,Retail,591
+pharma-b,P012,Cardiovascular protection,East,61+,Retail,284
+pharma-a,P011,Cardiovascular protection,South,18-30,Retail,159
+pharma-b,P017,Cholesterol management,South,31-45,Prescription,353
+pharma-a,P009,Diabetes management,North,31-45,Acute Care,966
+pharma-b,P012,Nutritional supplementation,South,31-45,Hospital,706
+pharma-b,P012,Cardiovascular protection,North,46-60,Acute Care,677
+pharma-a,P019,Pain and inflammation,West,46-60,Hospital,602
+pharma-a,P003,Fever and pain management,South,31-45,Prescription,639
+pharma-b,P001,Cholesterol management,South,31-45,Retail,834
+pharma-a,P011,Fever and pain management,North,31-45,Acute Care,821
+pharma-a,P004,Nutritional supplementation,East,18-30,Retail,821
+pharma-b,P019,Bacterial infections,East,46-60,Retail,239
+pharma-a,P014,Calcium supplementation,West,46-60,Hospital,824
+pharma-b,P008,Blood clot prevention,South,61+,Retail,851
+pharma-b,P005,Type 2 diabetes,North,61+,Acute Care,133
+pharma-a,P020,Cholesterol management,South,18-30,Chronic Care,244
+pharma-b,P003,Pain and inflammation,East,46-60,Hospital,751
+pharma-a,P011,Hypertension management,North,46-60,Hospital,355
+pharma-a,P012,Allergy management,North,18-30,Prescription,495
+pharma-b,P014,Type 2 diabetes,West,61+,Chronic Care,459
+pharma-b,P004,Nutritional supplementation,West,31-45,Hospital,562
+pharma-a,P002,Allergy management,North,46-60,Retail,207
+pharma-a,P011,Type 2 diabetes,West,31-45,Prescription,660
+pharma-a,P011,Cardiovascular protection,West,18-30,Chronic Care,769
+pharma-a,P020,Acid reflux management,South,18-30,Prescription,439
+pharma-a,P007,Acid reflux management,East,46-60,Retail,343
+pharma-a,P002,Acid reflux management,West,31-45,Prescription,469
+pharma-a,P014,Bacterial infections,East,61+,Hospital,199
+pharma-a,P007,Type 2 diabetes,East,18-30,Chronic Care,964
+pharma-a,P010,Calcium supplementation,West,61+,Chronic Care,776
+pharma-b,P003,Blood clot prevention,West,31-45,Retail,490
+pharma-b,P006,Hypertension management,North,46-60,Chronic Care,576
+pharma-b,P008,Nutritional supplementation,East,18-30,Hospital,870
+pharma-a,P003,Blood clot prevention,East,61+,Acute Care,332
+pharma-a,P013,Nutritional supplementation,West,61+,Acute Care,341
+pharma-b,P010,Bacterial infections,West,18-30,Acute Care,684
+pharma-a,P004,Calcium supplementation,West,31-45,Hospital,316
+pharma-a,P005,Fever and pain management,West,18-30,Chronic Care,306
+pharma-a,P020,Allergy management,East,18-30,Prescription,497
+pharma-b,P018,Cholesterol management,East,61+,Prescription,905
+pharma-b,P004,Acid reflux management,South,31-45,Acute Care,702
+pharma-a,P004,Cardiovascular protection,North,46-60,Acute Care,452
+pharma-b,P009,Acid reflux management,West,61+,Prescription,276
+pharma-b,P013,Type 2 diabetes,West,18-30,Chronic Care,1000
+pharma-b,P008,Fever and pain management,West,46-60,Retail,120
+pharma-b,P010,Allergy management,East,61+,Prescription,989
+pharma-a,P005,Allergy management,West,46-60,Retail,846
+pharma-b,P020,Blood clot prevention,North,31-45,Chronic Care,316
+pharma-b,P016,Calcium supplementation,East,18-30,Acute Care,910
+pharma-a,P003,Allergy management,West,31-45,Acute Care,1000
+pharma-a,P006,Pain and inflammation,South,18-30,Hospital,133
+pharma-b,P002,Cholesterol management,South,46-60,Retail,943
+pharma-b,P017,Acid reflux management,North,18-30,Hospital,481
+pharma-b,P020,Hypertension management,South,61+,Acute Care,664
+pharma-b,P012,Type 2 diabetes,East,18-30,Retail,128
+pharma-b,P002,Type 2 diabetes,South,31-45,Hospital,793
+pharma-a,P009,Blood clot prevention,West,18-30,Prescription,585
+pharma-a,P006,Cardiovascular protection,North,31-45,Retail,722
+pharma-b,P009,Acid reflux management,West,46-60,Chronic Care,358
+pharma-a,P015,Allergy management,West,18-30,Prescription,623
+pharma-b,P018,Blood clot prevention,East,46-60,Prescription,593
+pharma-a,P011,Allergy management,East,46-60,Retail,771
+pharma-b,P007,Type 2 diabetes,South,18-30,Acute Care,513
+pharma-b,P005,Vitamin D supplementation,North,61+,Retail,365
+pharma-b,P013,Acid reflux management,North,31-45,Retail,843
+pharma-a,P018,Blood clot prevention,West,46-60,Acute Care,407
+pharma-a,P018,Type 2 diabetes,East,18-30,Chronic Care,231
+pharma-b,P018,Calcium supplementation,South,46-60,Prescription,327
+pharma-b,P008,Vitamin D supplementation,East,61+,Retail,480
+pharma-b,P019,Allergy management,West,18-30,Chronic Care,154
+pharma-a,P016,Pain and inflammation,North,61+,Acute Care,405
+pharma-b,P002,Nutritional supplementation,South,31-45,Hospital,450
+pharma-b,P019,Hypertension management,South,46-60,Hospital,897
+pharma-a,P016,Cholesterol management,South,46-60,Prescription,104
+pharma-b,P009,Pain and inflammation,South,31-45,Chronic Care,904
+pharma-a,P005,Cardiovascular protection,West,61+,Chronic Care,539
+pharma-b,P013,Fever and pain management,North,31-45,Retail,114
+pharma-b,P017,Pain and inflammation,North,18-30,Hospital,331
+pharma-b,P010,Type 2 diabetes,North,61+,Acute Care,702
+pharma-b,P006,Bacterial infections,North,46-60,Retail,566
+pharma-b,P014,Blood clot prevention,South,46-60,Chronic Care,467
+pharma-a,P006,Calcium supplementation,West,18-30,Hospital,329
+pharma-a,P007,Vitamin D supplementation,North,31-45,Prescription,475
+pharma-a,P013,Blood clot prevention,East,18-30,Acute Care,149
+pharma-a,P001,Fever and pain management,North,61+,Chronic Care,489
+pharma-a,P018,Allergy management,West,31-45,Hospital,811
+pharma-a,P010,Acid reflux management,North,46-60,Acute Care,720
+pharma-a,P014,Nutritional supplementation,North,18-30,Retail,216
+pharma-a,P016,Pain and inflammation,South,46-60,Acute Care,306
+pharma-b,P014,Allergy management,South,18-30,Acute Care,608
+pharma-a,P016,Cholesterol management,South,18-30,Prescription,787
+pharma-a,P004,Nutritional supplementation,West,31-45,Prescription,898
+pharma-a,P004,Allergy management,South,61+,Retail,370
+pharma-b,P002,Bacterial infections,South,18-30,Retail,468
+pharma-b,P014,Vitamin D supplementation,North,18-30,Prescription,109
+pharma-a,P006,Cholesterol management,East,61+,Acute Care,374
+pharma-a,P012,Nutritional supplementation,East,31-45,Prescription,510
+pharma-b,P015,Allergy management,West,61+,Chronic Care,764
+pharma-a,P004,Type 2 diabetes,North,31-45,Prescription,526
+pharma-b,P019,Blood clot prevention,West,31-45,Acute Care,488
+pharma-b,P020,Fever and pain management,South,61+,Chronic Care,215
+pharma-b,P015,Fever and pain management,North,46-60,Retail,112
+pharma-a,P011,Diabetes management,North,61+,Hospital,593
+pharma-b,P013,Type 2 diabetes,North,18-30,Hospital,617
+pharma-b,P016,Nutritional supplementation,South,18-30,Chronic Care,428
+pharma-a,P011,Allergy management,North,31-45,Acute Care,758
+pharma-b,P013,Nutritional supplementation,South,18-30,Chronic Care,554
+pharma-b,P003,Nutritional supplementation,West,61+,Retail,221
+pharma-b,P001,Bacterial infections,West,61+,Prescription,670
+pharma-a,P003,Calcium supplementation,East,31-45,Chronic Care,449
+pharma-b,P002,Nutritional supplementation,South,61+,Retail,673
+pharma-b,P012,Vitamin D supplementation,West,18-30,Prescription,877
+pharma-a,P001,Cholesterol management,East,46-60,Acute Care,634
+pharma-b,P004,Fever and pain management,South,61+,Hospital,941
+pharma-b,P004,Allergy management,South,31-45,Prescription,972
+pharma-b,P007,Hypertension management,South,46-60,Prescription,875
+pharma-b,P002,Blood clot prevention,North,61+,Chronic Care,774
+pharma-a,P016,Fever and pain management,North,61+,Acute Care,594
+pharma-a,P019,Type 2 diabetes,South,18-30,Chronic Care,773
+pharma-b,P017,Acid reflux management,West,31-45,Retail,507
+pharma-b,P010,Hypertension management,South,31-45,Chronic Care,716
+pharma-b,P018,Nutritional supplementation,East,31-45,Hospital,314
+pharma-b,P012,Blood clot prevention,South,31-45,Acute Care,655
+pharma-b,P004,Calcium supplementation,East,61+,Acute Care,684
+pharma-b,P018,Allergy management,West,18-30,Acute Care,209
+pharma-a,P013,Type 2 diabetes,North,18-30,Hospital,373
+pharma-a,P010,Blood clot prevention,East,31-45,Prescription,807
+pharma-b,P007,Calcium supplementation,North,46-60,Chronic Care,204
+pharma-a,P018,Acid reflux management,South,46-60,Prescription,490
+pharma-b,P014,Calcium supplementation,East,18-30,Prescription,861
+pharma-b,P007,Cardiovascular protection,West,31-45,Retail,873
+pharma-a,P007,Allergy management,West,31-45,Prescription,291
+pharma-a,P017,Bacterial infections,West,18-30,Chronic Care,385
+pharma-b,P005,Type 2 diabetes,East,18-30,Retail,577
+pharma-a,P002,Type 2 diabetes,East,18-30,Acute Care,963
+pharma-b,P016,Calcium supplementation,East,18-30,Retail,638
+pharma-a,P006,Diabetes management,North,31-45,Chronic Care,656
+pharma-b,P003,Cholesterol management,South,31-45,Retail,439
+pharma-b,P010,Pain and inflammation,West,18-30,Prescription,784
+pharma-b,P015,Pain and inflammation,South,18-30,Retail,490
+pharma-a,P013,Allergy management,East,18-30,Acute Care,941
+pharma-b,P017,Calcium supplementation,West,61+,Prescription,403
+pharma-a,P011,Diabetes management,North,18-30,Hospital,891
+pharma-a,P003,Pain and inflammation,South,61+,Prescription,310
+pharma-b,P003,Vitamin D supplementation,South,18-30,Chronic Care,834
+pharma-b,P002,Bacterial infections,North,18-30,Hospital,913
+pharma-b,P018,Bacterial infections,South,46-60,Chronic Care,497
+pharma-b,P013,Acid reflux management,East,18-30,Chronic Care,789
+pharma-a,P018,Fever and pain management,North,18-30,Prescription,466
+pharma-a,P010,Calcium supplementation,East,18-30,Retail,883
+pharma-b,P013,Acid reflux management,North,61+,Hospital,646
+pharma-a,P005,Vitamin D supplementation,West,46-60,Hospital,405
+pharma-b,P001,Diabetes management,South,18-30,Prescription,105
+pharma-b,P018,Diabetes management,North,46-60,Hospital,866
+pharma-b,P007,Acid reflux management,South,31-45,Hospital,326
+pharma-b,P007,Bacterial infections,South,18-30,Acute Care,572
+pharma-a,P010,Blood clot prevention,North,46-60,Prescription,302
+pharma-b,P011,Cholesterol management,South,31-45,Prescription,391
+pharma-a,P007,Cholesterol management,West,61+,Retail,731
+pharma-b,P019,Type 2 diabetes,East,46-60,Chronic Care,272
+pharma-a,P011,Pain and inflammation,South,61+,Retail,960
+pharma-b,P005,Blood clot prevention,East,61+,Chronic Care,556
+pharma-b,P010,Hypertension management,North,31-45,Acute Care,183
+pharma-b,P005,Diabetes management,South,46-60,Prescription,844
+pharma-a,P001,Nutritional supplementation,North,61+,Acute Care,317
+pharma-a,P018,Allergy management,West,31-45,Retail,501
+pharma-a,P019,Vitamin D supplementation,East,31-45,Chronic Care,613
+pharma-a,P013,Cholesterol management,North,31-45,Acute Care,800
+pharma-a,P017,Type 2 diabetes,West,31-45,Hospital,679
+pharma-a,P016,Cholesterol management,North,31-45,Chronic Care,337
+pharma-a,P009,Cholesterol management,South,18-30,Hospital,630
+pharma-b,P013,Hypertension management,West,18-30,Prescription,764
+pharma-b,P004,Vitamin D supplementation,East,46-60,Acute Care,657
+pharma-a,P013,Blood clot prevention,West,46-60,Acute Care,769
+pharma-a,P017,Allergy management,West,31-45,Acute Care,515
+pharma-b,P012,Hypertension management,West,18-30,Acute Care,242
+pharma-b,P006,Pain and inflammation,North,46-60,Hospital,253
+pharma-a,P006,Cholesterol management,North,31-45,Chronic Care,930
+pharma-b,P004,Hypertension management,West,61+,Hospital,704
+pharma-a,P014,Fever and pain management,South,18-30,Hospital,687
+pharma-a,P005,Blood clot prevention,North,31-45,Prescription,270
+pharma-b,P006,Diabetes management,West,18-30,Retail,187
+pharma-a,P015,Cardiovascular protection,West,61+,Hospital,324
+pharma-b,P020,Type 2 diabetes,South,46-60,Hospital,841
+pharma-b,P015,Cardiovascular protection,North,31-45,Chronic Care,494
+pharma-a,P004,Fever and pain management,South,61+,Hospital,720
+pharma-a,P006,Hypertension management,North,18-30,Prescription,593
+pharma-a,P020,Diabetes management,North,61+,Acute Care,530
+pharma-b,P002,Vitamin D supplementation,West,31-45,Chronic Care,908
+pharma-b,P012,Cardiovascular protection,North,61+,Hospital,360
+pharma-b,P008,Nutritional supplementation,North,46-60,Acute Care,997
+pharma-b,P009,Pain and inflammation,North,18-30,Acute Care,635
+pharma-a,P017,Fever and pain management,West,31-45,Retail,518
+pharma-b,P004,Type 2 diabetes,West,46-60,Retail,975
+pharma-b,P019,Cholesterol management,East,61+,Hospital,523
+pharma-b,P006,Cholesterol management,West,46-60,Retail,691
+pharma-b,P013,Vitamin D supplementation,South,18-30,Hospital,557
+pharma-a,P004,Pain and inflammation,West,46-60,Acute Care,728
+pharma-a,P006,Acid reflux management,North,18-30,Hospital,582
+pharma-b,P003,Bacterial infections,East,31-45,Retail,181
+pharma-a,P013,Acid reflux management,East,18-30,Hospital,755
+pharma-b,P015,Fever and pain management,South,46-60,Hospital,134
+pharma-a,P020,Type 2 diabetes,North,46-60,Hospital,770
+pharma-a,P006,Bacterial infections,East,61+,Retail,785
+pharma-b,P013,Cardiovascular protection,South,18-30,Prescription,192
+pharma-b,P018,Cardiovascular protection,East,46-60,Retail,331
+pharma-a,P015,Acid reflux management,North,46-60,Hospital,516
+pharma-a,P018,Bacterial infections,East,46-60,Prescription,922
+pharma-b,P018,Nutritional supplementation,East,61+,Chronic Care,676
+pharma-b,P008,Calcium supplementation,East,61+,Chronic Care,700
+pharma-a,P016,Bacterial infections,East,18-30,Chronic Care,748
+pharma-a,P008,Calcium supplementation,East,61+,Retail,628
+pharma-a,P009,Pain and inflammation,East,18-30,Chronic Care,789
+pharma-b,P003,Diabetes management,South,61+,Retail,462
+pharma-a,P019,Allergy management,South,31-45,Chronic Care,854
+pharma-a,P008,Vitamin D supplementation,South,46-60,Hospital,334
+pharma-a,P008,Nutritional supplementation,East,31-45,Prescription,222
+pharma-a,P016,Cardiovascular protection,North,18-30,Chronic Care,480
+pharma-b,P016,Cardiovascular protection,East,61+,Hospital,882
+pharma-b,P013,Pain and inflammation,South,18-30,Acute Care,918
+pharma-b,P016,Diabetes management,North,46-60,Chronic Care,981
+pharma-a,P015,Bacterial infections,West,46-60,Prescription,112
+pharma-a,P013,Cardiovascular protection,North,46-60,Retail,727
+pharma-b,P006,Diabetes management,East,31-45,Retail,582
+pharma-b,P012,Type 2 diabetes,West,61+,Hospital,529
+pharma-b,P012,Nutritional supplementation,West,46-60,Chronic Care,284
+pharma-a,P019,Blood clot prevention,South,18-30,Retail,923
+pharma-a,P018,Acid reflux management,West,31-45,Hospital,919
+pharma-a,P016,Calcium supplementation,North,31-45,Chronic Care,611
+pharma-a,P017,Diabetes management,East,61+,Retail,356
+pharma-a,P013,Bacterial infections,South,18-30,Hospital,933
+pharma-b,P016,Nutritional supplementation,North,61+,Retail,366
+pharma-b,P012,Diabetes management,East,46-60,Prescription,521
+pharma-a,P012,Nutritional supplementation,South,31-45,Retail,463
+pharma-b,P017,Hypertension management,West,18-30,Chronic Care,728
+pharma-b,P015,Blood clot prevention,South,31-45,Retail,531
+pharma-b,P003,Bacterial infections,South,46-60,Hospital,421
+pharma-b,P010,Vitamin D supplementation,East,61+,Retail,555
+pharma-b,P019,Diabetes management,West,61+,Hospital,288
+pharma-a,P005,Vitamin D supplementation,South,46-60,Prescription,315
+pharma-a,P013,Bacterial infections,North,18-30,Chronic Care,661
+pharma-a,P001,Calcium supplementation,West,18-30,Prescription,368
+pharma-a,P003,Blood clot prevention,West,46-60,Hospital,353
+pharma-b,P015,Blood clot prevention,South,31-45,Acute Care,958
+pharma-a,P001,Fever and pain management,East,46-60,Chronic Care,578
+pharma-b,P018,Hypertension management,South,31-45,Acute Care,711
+pharma-b,P019,Acid reflux management,East,46-60,Chronic Care,652
+pharma-a,P003,Hypertension management,East,46-60,Chronic Care,366
+pharma-a,P010,Fever and pain management,North,31-45,Retail,393
+pharma-b,P018,Fever and pain management,West,61+,Retail,109
+pharma-b,P010,Cardiovascular protection,South,18-30,Acute Care,482
+pharma-a,P014,Diabetes management,West,61+,Hospital,267
+pharma-b,P013,Pain and inflammation,East,18-30,Chronic Care,740
+pharma-a,P017,Calcium supplementation,East,46-60,Acute Care,928
+pharma-b,P014,Pain and inflammation,North,31-45,Hospital,396
+pharma-a,P015,Cardiovascular protection,West,46-60,Acute Care,603
+pharma-a,P011,Fever and pain management,South,18-30,Acute Care,122
+pharma-a,P004,Allergy management,East,31-45,Chronic Care,844
+pharma-a,P008,Bacterial infections,South,18-30,Chronic Care,322
+pharma-b,P014,Allergy management,West,46-60,Chronic Care,813
+pharma-a,P011,Bacterial infections,South,18-30,Retail,894
+pharma-b,P003,Diabetes management,West,31-45,Hospital,961
+pharma-b,P013,Nutritional supplementation,North,18-30,Hospital,494
+pharma-b,P008,Vitamin D supplementation,North,31-45,Chronic Care,852
+pharma-a,P017,Blood clot prevention,South,61+,Chronic Care,797
+pharma-b,P011,Type 2 diabetes,North,18-30,Retail,592
+pharma-b,P007,Cholesterol management,North,31-45,Prescription,341
+pharma-b,P011,Fever and pain management,South,46-60,Acute Care,222
+pharma-b,P008,Fever and pain management,North,61+,Acute Care,258
+pharma-b,P003,Pain and inflammation,South,61+,Prescription,802
+pharma-b,P002,Fever and pain management,East,31-45,Acute Care,910
+pharma-a,P005,Hypertension management,South,46-60,Acute Care,907
+pharma-b,P015,Vitamin D supplementation,South,18-30,Chronic Care,466
+pharma-a,P009,Fever and pain management,West,61+,Acute Care,401
+pharma-b,P007,Cardiovascular protection,South,46-60,Retail,849
+pharma-b,P009,Nutritional supplementation,South,18-30,Acute Care,258
+pharma-b,P010,Nutritional supplementation,East,46-60,Chronic Care,100
+pharma-b,P006,Fever and pain management,East,31-45,Retail,838
+pharma-a,P018,Nutritional supplementation,West,31-45,Acute Care,799
+pharma-b,P018,Type 2 diabetes,East,46-60,Chronic Care,756
+pharma-b,P004,Bacterial infections,North,18-30,Hospital,282
+pharma-a,P007,Bacterial infections,West,31-45,Prescription,132
+pharma-b,P016,Diabetes management,East,18-30,Retail,326
+pharma-a,P001,Pain and inflammation,West,18-30,Chronic Care,920
+pharma-a,P012,Diabetes management,West,46-60,Prescription,943
+pharma-b,P017,Fever and pain management,North,46-60,Prescription,321
+pharma-a,P004,Vitamin D supplementation,South,61+,Hospital,297
+pharma-a,P019,Blood clot prevention,South,61+,Prescription,884
+pharma-b,P015,Vitamin D supplementation,West,18-30,Hospital,911
+pharma-a,P018,Acid reflux management,East,31-45,Acute Care,714
+pharma-b,P012,Cholesterol management,East,46-60,Chronic Care,882
+pharma-b,P011,Cardiovascular protection,South,31-45,Chronic Care,884
+pharma-b,P012,Hypertension management,West,61+,Prescription,843
+pharma-a,P010,Cardiovascular protection,North,31-45,Retail,106
+pharma-b,P008,Pain and inflammation,East,18-30,Retail,666
+pharma-a,P004,Fever and pain management,West,46-60,Hospital,241
+pharma-b,P012,Cardiovascular protection,South,31-45,Retail,930
+pharma-b,P003,Cardiovascular protection,West,31-45,Prescription,840
+pharma-b,P016,Type 2 diabetes,West,18-30,Acute Care,757
+pharma-b,P002,Vitamin D supplementation,West,18-30,Prescription,889
+pharma-b,P012,Nutritional supplementation,West,61+,Prescription,990
+pharma-a,P020,Fever and pain management,West,18-30,Retail,636
+pharma-a,P011,Diabetes management,South,46-60,Acute Care,814
+pharma-a,P005,Fever and pain management,West,61+,Acute Care,689
+pharma-a,P008,Acid reflux management,East,61+,Hospital,235
+pharma-b,P003,Hypertension management,North,61+,Retail,187
+pharma-b,P017,Acid reflux management,South,31-45,Chronic Care,672
+pharma-a,P016,Acid reflux management,South,31-45,Hospital,173
+pharma-b,P014,Cholesterol management,North,18-30,Chronic Care,533
+pharma-b,P012,Pain and inflammation,East,46-60,Acute Care,771
+pharma-a,P010,Type 2 diabetes,East,61+,Acute Care,249
+pharma-b,P002,Nutritional supplementation,South,31-45,Retail,259
+pharma-a,P004,Vitamin D supplementation,North,31-45,Acute Care,251
+pharma-b,P001,Cholesterol management,North,46-60,Chronic Care,582
+pharma-a,P011,Pain and inflammation,South,31-45,Acute Care,635
+pharma-b,P018,Hypertension management,South,18-30,Chronic Care,696
+pharma-a,P009,Type 2 diabetes,North,46-60,Hospital,908
+pharma-b,P002,Hypertension management,North,18-30,Chronic Care,776
+pharma-b,P012,Nutritional supplementation,North,18-30,Retail,988
+pharma-b,P008,Acid reflux management,North,46-60,Chronic Care,987
+pharma-a,P006,Pain and inflammation,West,18-30,Prescription,353
+pharma-b,P011,Hypertension management,West,31-45,Prescription,455
+pharma-b,P012,Blood clot prevention,East,31-45,Acute Care,382
+pharma-a,P009,Acid reflux management,North,46-60,Hospital,255
+pharma-b,P013,Blood clot prevention,South,18-30,Chronic Care,633
+pharma-a,P014,Pain and inflammation,South,61+,Retail,719
+pharma-b,P015,Diabetes management,South,31-45,Hospital,694
+pharma-a,P005,Allergy management,South,61+,Hospital,771
+pharma-a,P011,Bacterial infections,North,31-45,Retail,959
+pharma-a,P001,Calcium supplementation,East,61+,Chronic Care,410
+pharma-b,P009,Type 2 diabetes,South,18-30,Hospital,289
+pharma-a,P020,Cardiovascular protection,East,31-45,Acute Care,337
+pharma-a,P001,Cholesterol management,North,61+,Hospital,614
+pharma-b,P012,Type 2 diabetes,West,61+,Chronic Care,240
+pharma-a,P007,Pain and inflammation,North,61+,Prescription,376
+pharma-b,P008,Vitamin D supplementation,South,31-45,Prescription,281
+pharma-b,P020,Hypertension management,East,61+,Hospital,537
+pharma-b,P002,Cardiovascular protection,West,46-60,Chronic Care,726
+pharma-a,P017,Bacterial infections,West,61+,Prescription,998
+pharma-a,P017,Diabetes management,West,18-30,Acute Care,496
+pharma-a,P007,Allergy management,West,61+,Retail,892
+pharma-b,P015,Type 2 diabetes,West,46-60,Acute Care,155
+pharma-a,P015,Nutritional supplementation,West,18-30,Acute Care,215
+pharma-a,P019,Vitamin D supplementation,South,61+,Chronic Care,431
+pharma-b,P001,Type 2 diabetes,West,31-45,Chronic Care,192
+pharma-b,P011,Vitamin D supplementation,South,18-30,Prescription,216
+pharma-b,P012,Bacterial infections,West,31-45,Chronic Care,663
+pharma-b,P002,Calcium supplementation,South,46-60,Acute Care,992
+pharma-a,P006,Nutritional supplementation,South,31-45,Prescription,529
+pharma-b,P010,Vitamin D supplementation,West,46-60,Hospital,220
+pharma-a,P007,Fever and pain management,East,18-30,Chronic Care,609
+pharma-b,P018,Calcium supplementation,North,61+,Hospital,322
+pharma-b,P015,Acid reflux management,West,18-30,Acute Care,714
+pharma-a,P008,Diabetes management,East,31-45,Prescription,289
+pharma-a,P002,Blood clot prevention,East,18-30,Hospital,974
+pharma-a,P019,Nutritional supplementation,East,46-60,Prescription,150
+pharma-a,P014,Type 2 diabetes,South,46-60,Acute Care,776
+pharma-a,P015,Vitamin D supplementation,East,18-30,Prescription,886
+pharma-b,P011,Cholesterol management,West,18-30,Chronic Care,963
+pharma-a,P010,Hypertension management,South,18-30,Retail,437
+pharma-b,P017,Pain and inflammation,South,18-30,Prescription,685
+pharma-a,P016,Vitamin D supplementation,East,61+,Acute Care,968
+pharma-b,P009,Diabetes management,East,31-45,Acute Care,676
+pharma-b,P017,Vitamin D supplementation,West,61+,Hospital,724
+pharma-a,P010,Pain and inflammation,North,18-30,Prescription,576
+pharma-a,P007,Calcium supplementation,West,61+,Prescription,441
+pharma-b,P018,Calcium supplementation,South,18-30,Hospital,806
+pharma-b,P009,Calcium supplementation,North,46-60,Retail,618
+pharma-b,P001,Bacterial infections,East,46-60,Chronic Care,841
+pharma-a,P006,Pain and inflammation,East,46-60,Chronic Care,585
+pharma-a,P005,Hypertension management,South,61+,Acute Care,443
+pharma-b,P014,Vitamin D supplementation,North,46-60,Acute Care,842
+pharma-b,P018,Diabetes management,North,31-45,Acute Care,801
+pharma-b,P012,Bacterial infections,South,46-60,Prescription,447
+pharma-b,P018,Nutritional supplementation,South,61+,Hospital,709
+pharma-a,P010,Vitamin D supplementation,East,18-30,Retail,523
+pharma-a,P016,Pain and inflammation,East,61+,Retail,321
+pharma-b,P006,Bacterial infections,East,18-30,Hospital,194
+pharma-b,P017,Fever and pain management,West,31-45,Hospital,448
+pharma-b,P017,Allergy management,East,31-45,Prescription,941
+pharma-a,P007,Vitamin D supplementation,North,61+,Chronic Care,830
+pharma-a,P001,Allergy management,North,18-30,Retail,578
+pharma-a,P004,Diabetes management,East,18-30,Acute Care,876
+pharma-b,P007,Cholesterol management,South,31-45,Retail,383
+pharma-b,P015,Blood clot prevention,North,46-60,Hospital,261
+pharma-b,P004,Fever and pain management,North,31-45,Acute Care,458
+pharma-b,P009,Type 2 diabetes,East,31-45,Hospital,172
+pharma-b,P020,Cholesterol management,West,18-30,Hospital,129
+pharma-b,P002,Bacterial infections,West,18-30,Prescription,536
+pharma-b,P006,Vitamin D supplementation,West,46-60,Retail,440
+pharma-a,P018,Bacterial infections,West,31-45,Prescription,932
+pharma-b,P004,Hypertension management,East,61+,Chronic Care,337
+pharma-a,P005,Nutritional supplementation,East,46-60,Chronic Care,287
+pharma-b,P011,Hypertension management,West,18-30,Prescription,586
+pharma-a,P012,Hypertension management,West,31-45,Retail,886
+pharma-b,P020,Cardiovascular protection,South,18-30,Chronic Care,937
+pharma-a,P011,Diabetes management,North,46-60,Acute Care,572
+pharma-b,P019,Acid reflux management,South,31-45,Acute Care,262
+pharma-b,P013,Bacterial infections,East,31-45,Acute Care,541
+pharma-b,P019,Calcium supplementation,East,31-45,Hospital,778
+pharma-a,P019,Nutritional supplementation,West,18-30,Acute Care,710
+pharma-b,P011,Diabetes management,North,61+,Hospital,415
+pharma-b,P003,Cardiovascular protection,North,61+,Retail,606
+pharma-a,P003,Pain and inflammation,South,18-30,Hospital,776
+pharma-a,P015,Diabetes management,East,61+,Acute Care,691
+pharma-b,P007,Pain and inflammation,East,46-60,Acute Care,913
+pharma-b,P014,Vitamin D supplementation,East,18-30,Acute Care,108
+pharma-b,P005,Nutritional supplementation,East,18-30,Retail,662
+pharma-a,P001,Vitamin D supplementation,East,18-30,Retail,986
+pharma-a,P008,Acid reflux management,West,46-60,Chronic Care,515
+pharma-b,P014,Diabetes management,South,31-45,Chronic Care,242
+pharma-a,P018,Acid reflux management,East,61+,Hospital,395
+pharma-a,P005,Fever and pain management,North,18-30,Hospital,838
+pharma-b,P014,Type 2 diabetes,North,31-45,Chronic Care,980
+pharma-b,P020,Acid reflux management,South,61+,Acute Care,534
+pharma-b,P013,Cholesterol management,South,31-45,Chronic Care,719
+pharma-a,P019,Hypertension management,South,46-60,Chronic Care,659
+pharma-b,P002,Fever and pain management,West,46-60,Prescription,694
+pharma-b,P003,Type 2 diabetes,East,61+,Acute Care,180
+pharma-a,P008,Hypertension management,North,46-60,Acute Care,154
+pharma-b,P018,Calcium supplementation,North,61+,Chronic Care,624
+pharma-b,P019,Vitamin D supplementation,East,61+,Retail,917
+pharma-b,P010,Type 2 diabetes,North,46-60,Acute Care,366
+pharma-a,P016,Cardiovascular protection,South,18-30,Retail,928
+pharma-a,P010,Hypertension management,North,31-45,Acute Care,178
+pharma-b,P009,Type 2 diabetes,East,46-60,Retail,114
+pharma-a,P020,Type 2 diabetes,South,61+,Retail,927
+pharma-a,P009,Calcium supplementation,South,61+,Hospital,918
+pharma-a,P011,Bacterial infections,South,31-45,Chronic Care,870
+pharma-b,P013,Pain and inflammation,West,31-45,Hospital,691
+pharma-b,P002,Blood clot prevention,East,18-30,Prescription,271
+pharma-b,P013,Hypertension management,East,61+,Acute Care,339
+pharma-b,P013,Hypertension management,East,31-45,Acute Care,991
+pharma-b,P001,Allergy management,West,61+,Retail,642
+pharma-a,P004,Diabetes management,East,61+,Acute Care,767
+pharma-b,P011,Allergy management,East,18-30,Retail,770
+pharma-b,P015,Calcium supplementation,South,31-45,Acute Care,445
+pharma-a,P011,Diabetes management,North,18-30,Prescription,112
+pharma-b,P004,Diabetes management,North,61+,Retail,324
+pharma-b,P009,Pain and inflammation,North,18-30,Acute Care,194
+pharma-a,P020,Blood clot prevention,South,18-30,Prescription,188
+pharma-a,P013,Blood clot prevention,South,18-30,Hospital,359
+pharma-b,P015,Blood clot prevention,North,61+,Retail,887
+pharma-b,P011,Allergy management,South,18-30,Retail,895
+pharma-a,P013,Acid reflux management,East,18-30,Retail,932
+pharma-b,P006,Hypertension management,North,61+,Hospital,724
+pharma-b,P006,Blood clot prevention,West,18-30,Hospital,653
+pharma-b,P007,Cardiovascular protection,North,61+,Retail,205
+pharma-a,P003,Bacterial infections,East,61+,Prescription,609
+pharma-a,P001,Fever and pain management,West,46-60,Hospital,816
+pharma-b,P013,Cardiovascular protection,North,61+,Chronic Care,546
+pharma-b,P003,Diabetes management,South,18-30,Chronic Care,805
+pharma-b,P004,Cardiovascular protection,East,46-60,Retail,510
+pharma-a,P003,Cholesterol management,East,18-30,Chronic Care,878
+pharma-b,P007,Type 2 diabetes,North,61+,Hospital,406
+pharma-b,P004,Blood clot prevention,East,61+,Prescription,747
+pharma-b,P007,Type 2 diabetes,North,31-45,Prescription,837
+pharma-a,P016,Acid reflux management,North,46-60,Chronic Care,646
+pharma-b,P001,Fever and pain management,East,18-30,Retail,906
+pharma-a,P013,Bacterial infections,South,61+,Acute Care,252
+pharma-a,P003,Fever and pain management,South,61+,Prescription,582
+pharma-a,P008,Vitamin D supplementation,South,18-30,Hospital,747
+pharma-a,P010,Nutritional supplementation,North,61+,Acute Care,274
+pharma-a,P004,Bacterial infections,West,31-45,Prescription,923
+pharma-a,P014,Cholesterol management,West,46-60,Prescription,800
+pharma-a,P011,Nutritional supplementation,South,18-30,Acute Care,277
+pharma-b,P003,Bacterial infections,East,31-45,Chronic Care,272
+pharma-b,P018,Type 2 diabetes,West,31-45,Acute Care,141
+pharma-a,P004,Calcium supplementation,West,31-45,Prescription,1000
+pharma-b,P003,Fever and pain management,North,31-45,Prescription,823
+pharma-b,P014,Vitamin D supplementation,West,31-45,Hospital,246
+pharma-b,P017,Hypertension management,West,31-45,Hospital,725
+pharma-a,P020,Type 2 diabetes,West,18-30,Retail,456
+pharma-b,P001,Diabetes management,South,31-45,Prescription,642
+pharma-a,P020,Cholesterol management,South,61+,Hospital,383
+pharma-a,P007,Bacterial infections,South,61+,Chronic Care,280
+pharma-a,P002,Fever and pain management,East,46-60,Hospital,545
+pharma-b,P011,Cardiovascular protection,West,18-30,Prescription,858
+pharma-a,P018,Type 2 diabetes,South,18-30,Chronic Care,627
+pharma-a,P003,Pain and inflammation,West,46-60,Chronic Care,303
+pharma-b,P008,Calcium supplementation,North,46-60,Hospital,200
+pharma-a,P014,Nutritional supplementation,South,61+,Hospital,175
+pharma-b,P019,Hypertension management,North,61+,Hospital,321
+pharma-b,P006,Acid reflux management,East,31-45,Chronic Care,837
+pharma-a,P012,Allergy management,South,46-60,Hospital,132
+pharma-a,P009,Type 2 diabetes,North,61+,Chronic Care,528
+pharma-a,P011,Pain and inflammation,East,31-45,Acute Care,274
+pharma-a,P003,Acid reflux management,West,31-45,Acute Care,584
+pharma-b,P009,Fever and pain management,West,31-45,Hospital,435
+pharma-b,P019,Pain and inflammation,South,18-30,Chronic Care,145
+pharma-a,P016,Vitamin D supplementation,North,61+,Acute Care,503
+pharma-b,P004,Hypertension management,West,31-45,Prescription,671
+pharma-a,P014,Pain and inflammation,South,46-60,Retail,344
+pharma-a,P001,Hypertension management,East,31-45,Chronic Care,978
+pharma-a,P015,Hypertension management,South,61+,Hospital,908
+pharma-b,P015,Vitamin D supplementation,North,18-30,Chronic Care,807
+pharma-b,P017,Fever and pain management,East,61+,Retail,814
+pharma-a,P003,Cardiovascular protection,East,18-30,Acute Care,790
+pharma-b,P002,Bacterial infections,West,46-60,Chronic Care,733
+pharma-a,P012,Cholesterol management,South,18-30,Acute Care,826
+pharma-a,P005,Cholesterol management,South,18-30,Chronic Care,855
+pharma-a,P008,Cholesterol management,East,46-60,Acute Care,796
+pharma-b,P009,Fever and pain management,North,46-60,Retail,563
+pharma-b,P017,Diabetes management,North,61+,Acute Care,794
+pharma-b,P015,Cardiovascular protection,East,18-30,Hospital,568
+pharma-a,P003,Acid reflux management,South,46-60,Prescription,211
+pharma-a,P009,Bacterial infections,South,61+,Hospital,995
+pharma-a,P017,Blood clot prevention,North,46-60,Chronic Care,798
+pharma-a,P016,Cholesterol management,West,61+,Prescription,398
+pharma-a,P003,Fever and pain management,South,46-60,Chronic Care,692
+pharma-b,P011,Hypertension management,West,61+,Retail,680
+pharma-a,P010,Type 2 diabetes,East,31-45,Chronic Care,480
+pharma-b,P002,Type 2 diabetes,East,46-60,Chronic Care,270
+pharma-a,P018,Allergy management,South,31-45,Hospital,265
+pharma-a,P004,Fever and pain management,East,31-45,Chronic Care,366
+pharma-b,P006,Pain and inflammation,North,46-60,Retail,251
+pharma-b,P015,Diabetes management,South,46-60,Prescription,125
+pharma-b,P016,Calcium supplementation,South,61+,Retail,259
+pharma-a,P018,Diabetes management,East,46-60,Chronic Care,396
+pharma-a,P019,Vitamin D supplementation,West,46-60,Prescription,849
+pharma-b,P002,Type 2 diabetes,North,46-60,Prescription,511
+pharma-a,P015,Cholesterol management,North,46-60,Prescription,722
+pharma-a,P019,Diabetes management,South,46-60,Hospital,123
+pharma-a,P018,Nutritional supplementation,West,18-30,Acute Care,503
+pharma-a,P016,Cholesterol management,North,46-60,Chronic Care,251
+pharma-b,P012,Acid reflux management,East,18-30,Retail,453
+pharma-b,P010,Hypertension management,North,31-45,Chronic Care,859
+pharma-b,P015,Allergy management,South,61+,Chronic Care,242
+pharma-a,P005,Pain and inflammation,East,61+,Acute Care,443
+pharma-a,P019,Calcium supplementation,West,18-30,Prescription,519
+pharma-b,P014,Type 2 diabetes,West,31-45,Hospital,290
+pharma-b,P010,Diabetes management,West,18-30,Retail,954
+pharma-b,P016,Diabetes management,West,31-45,Prescription,910
+pharma-a,P005,Allergy management,East,61+,Prescription,769
+pharma-b,P014,Type 2 diabetes,West,31-45,Prescription,222
+pharma-b,P016,Bacterial infections,East,61+,Acute Care,546
+pharma-b,P016,Vitamin D supplementation,North,46-60,Acute Care,850
+pharma-a,P009,Type 2 diabetes,North,31-45,Retail,572
+pharma-a,P012,Type 2 diabetes,North,46-60,Retail,529
+pharma-b,P002,Allergy management,East,18-30,Acute Care,298
+pharma-a,P004,Cardiovascular protection,South,46-60,Retail,946
+pharma-b,P009,Blood clot prevention,East,18-30,Acute Care,693
+pharma-b,P005,Fever and pain management,South,46-60,Retail,897
+pharma-b,P014,Cholesterol management,South,18-30,Hospital,258
+pharma-a,P007,Calcium supplementation,North,61+,Chronic Care,178
+pharma-a,P005,Fever and pain management,West,46-60,Retail,807
+pharma-b,P005,Nutritional supplementation,West,46-60,Hospital,826
+pharma-b,P001,Vitamin D supplementation,North,31-45,Hospital,977
+pharma-a,P008,Allergy management,South,31-45,Hospital,180
+pharma-b,P004,Bacterial infections,North,61+,Chronic Care,143
+pharma-a,P004,Fever and pain management,North,61+,Prescription,359
+pharma-a,P003,Allergy management,North,18-30,Prescription,716
+pharma-a,P019,Pain and inflammation,South,46-60,Prescription,192
+pharma-a,P009,Cardiovascular protection,East,46-60,Hospital,975
+pharma-a,P017,Cardiovascular protection,North,18-30,Acute Care,881
+pharma-a,P017,Pain and inflammation,South,46-60,Hospital,872
+pharma-a,P004,Pain and inflammation,West,46-60,Acute Care,289
+pharma-b,P004,Type 2 diabetes,East,61+,Chronic Care,319
+pharma-a,P014,Bacterial infections,East,18-30,Chronic Care,212
+pharma-a,P016,Calcium supplementation,East,46-60,Acute Care,839
+pharma-a,P003,Cholesterol management,West,18-30,Chronic Care,390
+pharma-b,P020,Vitamin D supplementation,East,61+,Hospital,667
+pharma-b,P010,Nutritional supplementation,West,31-45,Prescription,961
+pharma-b,P012,Type 2 diabetes,North,61+,Prescription,505
+pharma-b,P017,Blood clot prevention,North,18-30,Hospital,504
+pharma-b,P019,Bacterial infections,South,18-30,Retail,303
+pharma-b,P007,Cardiovascular protection,West,18-30,Hospital,958
+pharma-b,P016,Allergy management,East,61+,Retail,587
+pharma-b,P016,Diabetes management,East,31-45,Chronic Care,210
+pharma-a,P009,Hypertension management,West,31-45,Hospital,130
+pharma-a,P002,Nutritional supplementation,North,61+,Prescription,283
+pharma-b,P020,Blood clot prevention,East,31-45,Retail,736
+pharma-a,P003,Blood clot prevention,West,61+,Hospital,400
+pharma-b,P016,Diabetes management,East,46-60,Acute Care,659
+pharma-a,P002,Acid reflux management,North,61+,Chronic Care,422
+pharma-b,P015,Hypertension management,North,18-30,Hospital,670
+pharma-b,P006,Hypertension management,West,31-45,Retail,832
+pharma-b,P016,Calcium supplementation,North,61+,Acute Care,801
+pharma-b,P016,Diabetes management,South,18-30,Chronic Care,369
+pharma-b,P019,Acid reflux management,East,46-60,Retail,162
+pharma-a,P019,Fever and pain management,South,46-60,Retail,928
+pharma-a,P011,Acid reflux management,North,61+,Retail,465
+pharma-b,P012,Fever and pain management,South,31-45,Hospital,763
+pharma-b,P019,Bacterial infections,North,46-60,Prescription,445
+pharma-a,P001,Diabetes management,East,18-30,Chronic Care,773
+pharma-b,P019,Diabetes management,West,46-60,Prescription,812
+pharma-b,P019,Fever and pain management,East,61+,Acute Care,499
+pharma-b,P019,Bacterial infections,West,18-30,Hospital,444
+pharma-b,P017,Calcium supplementation,East,31-45,Acute Care,406
+pharma-b,P014,Pain and inflammation,West,18-30,Acute Care,319
+pharma-b,P009,Fever and pain management,East,61+,Hospital,739
+pharma-a,P019,Bacterial infections,East,46-60,Prescription,680
+pharma-b,P014,Pain and inflammation,East,18-30,Retail,616
+pharma-b,P014,Blood clot prevention,East,31-45,Chronic Care,511
+pharma-b,P020,Diabetes management,West,31-45,Prescription,742
+pharma-a,P019,Hypertension management,South,61+,Retail,753
+pharma-b,P019,Vitamin D supplementation,North,31-45,Retail,573
+pharma-a,P008,Type 2 diabetes,East,61+,Chronic Care,426
+pharma-a,P007,Nutritional supplementation,West,46-60,Retail,761
+pharma-a,P009,Blood clot prevention,South,61+,Hospital,216
+pharma-a,P007,Fever and pain management,South,46-60,Chronic Care,597
+pharma-b,P014,Blood clot prevention,North,31-45,Hospital,379
+pharma-a,P001,Allergy management,East,31-45,Prescription,839
+pharma-b,P001,Fever and pain management,North,46-60,Acute Care,405
+pharma-a,P014,Cholesterol management,North,61+,Hospital,341
+pharma-a,P019,Vitamin D supplementation,North,46-60,Chronic Care,192
+pharma-a,P020,Bacterial infections,East,46-60,Acute Care,854
+pharma-b,P008,Acid reflux management,South,31-45,Prescription,279
+pharma-a,P009,Hypertension management,West,46-60,Acute Care,157
+pharma-b,P018,Cholesterol management,North,46-60,Acute Care,533
+pharma-b,P008,Allergy management,South,46-60,Chronic Care,832
+pharma-b,P010,Fever and pain management,North,18-30,Hospital,359
+pharma-b,P010,Blood clot prevention,East,18-30,Acute Care,987
+pharma-a,P015,Acid reflux management,North,61+,Retail,408
+pharma-a,P008,Allergy management,South,31-45,Chronic Care,746
+pharma-b,P014,Calcium supplementation,North,46-60,Prescription,942
+pharma-b,P016,Vitamin D supplementation,West,46-60,Chronic Care,997
+pharma-a,P006,Vitamin D supplementation,East,18-30,Retail,530
+pharma-b,P015,Vitamin D supplementation,North,18-30,Hospital,745
+pharma-b,P005,Fever and pain management,West,31-45,Retail,421
+pharma-a,P004,Type 2 diabetes,South,31-45,Acute Care,802
+pharma-b,P011,Hypertension management,West,31-45,Retail,277
+pharma-b,P010,Pain and inflammation,North,61+,Retail,286
+pharma-b,P013,Nutritional supplementation,South,18-30,Prescription,671
+pharma-a,P003,Hypertension management,South,46-60,Hospital,150
+pharma-b,P020,Acid reflux management,East,31-45,Prescription,476
+pharma-a,P019,Bacterial infections,North,61+,Chronic Care,947
+pharma-b,P004,Pain and inflammation,South,31-45,Retail,394
+pharma-b,P013,Type 2 diabetes,West,31-45,Acute Care,320
+pharma-b,P007,Acid reflux management,South,61+,Hospital,129
+pharma-b,P009,Pain and inflammation,West,31-45,Retail,696
+pharma-b,P003,Fever and pain management,West,31-45,Retail,809
+pharma-b,P007,Vitamin D supplementation,West,61+,Acute Care,362
+pharma-a,P004,Diabetes management,North,18-30,Retail,340
+pharma-b,P012,Cardiovascular protection,North,18-30,Retail,616
+pharma-b,P010,Acid reflux management,East,31-45,Acute Care,142
+pharma-a,P009,Type 2 diabetes,West,46-60,Chronic Care,235
+pharma-a,P011,Vitamin D supplementation,West,31-45,Retail,219
+pharma-b,P002,Type 2 diabetes,West,46-60,Retail,540
+pharma-b,P009,Cardiovascular protection,East,46-60,Chronic Care,268
+pharma-b,P016,Calcium supplementation,South,61+,Prescription,293
+pharma-a,P002,Pain and inflammation,South,18-30,Chronic Care,366
+pharma-a,P015,Acid reflux management,North,61+,Prescription,552
+pharma-b,P018,Hypertension management,West,61+,Prescription,966
+pharma-a,P004,Cholesterol management,North,31-45,Retail,284
+pharma-a,P017,Nutritional supplementation,East,31-45,Acute Care,104
+pharma-a,P014,Bacterial infections,South,61+,Prescription,436
+pharma-a,P010,Blood clot prevention,North,61+,Retail,704
+pharma-a,P011,Type 2 diabetes,North,18-30,Chronic Care,950
+pharma-b,P015,Blood clot prevention,East,18-30,Retail,144
+pharma-b,P011,Vitamin D supplementation,South,31-45,Prescription,920
+pharma-b,P011,Calcium supplementation,North,18-30,Acute Care,716
+pharma-b,P003,Acid reflux management,East,31-45,Hospital,889
+pharma-b,P003,Fever and pain management,South,31-45,Chronic Care,898
+pharma-b,P010,Blood clot prevention,South,18-30,Retail,602
+pharma-b,P010,Blood clot prevention,South,46-60,Prescription,952
+pharma-b,P017,Pain and inflammation,West,61+,Chronic Care,587
+pharma-b,P019,Cardiovascular protection,West,18-30,Chronic Care,930
+pharma-b,P020,Type 2 diabetes,West,61+,Prescription,141
+pharma-b,P015,Blood clot prevention,South,31-45,Chronic Care,639
+pharma-a,P010,Hypertension management,West,18-30,Chronic Care,407
+pharma-a,P005,Blood clot prevention,East,31-45,Acute Care,537
+pharma-b,P019,Fever and pain management,North,18-30,Acute Care,210
+pharma-b,P014,Bacterial infections,West,46-60,Retail,360
+pharma-a,P017,Fever and pain management,North,61+,Hospital,905
+pharma-a,P013,Fever and pain management,North,61+,Retail,421
+pharma-b,P015,Cardiovascular protection,East,46-60,Hospital,316
+pharma-a,P003,Vitamin D supplementation,East,18-30,Chronic Care,647
+pharma-a,P001,Acid reflux management,North,18-30,Hospital,771
+pharma-b,P015,Vitamin D supplementation,West,61+,Retail,733
+pharma-b,P013,Calcium supplementation,East,18-30,Hospital,238
+pharma-a,P007,Bacterial infections,North,31-45,Prescription,314
+pharma-b,P005,Blood clot prevention,South,61+,Acute Care,295
+pharma-a,P010,Calcium supplementation,West,31-45,Chronic Care,532
+pharma-a,P004,Type 2 diabetes,South,61+,Chronic Care,582
+pharma-a,P015,Cardiovascular protection,South,31-45,Retail,683
+pharma-b,P002,Cholesterol management,North,18-30,Chronic Care,525
+pharma-b,P019,Cardiovascular protection,East,18-30,Chronic Care,509
+pharma-b,P017,Cardiovascular protection,West,31-45,Prescription,640
+pharma-a,P014,Cardiovascular protection,East,18-30,Retail,763
+pharma-b,P016,Bacterial infections,West,46-60,Chronic Care,814
+pharma-b,P001,Type 2 diabetes,East,31-45,Chronic Care,452
+pharma-b,P008,Diabetes management,South,46-60,Acute Care,973
+pharma-b,P005,Allergy management,West,61+,Retail,915
+pharma-b,P006,Cardiovascular protection,South,46-60,Prescription,783
+pharma-b,P005,Type 2 diabetes,South,31-45,Acute Care,603
+pharma-a,P014,Hypertension management,East,31-45,Hospital,670
+pharma-a,P001,Cholesterol management,East,46-60,Hospital,278
+pharma-a,P003,Cholesterol management,West,18-30,Acute Care,332
+pharma-a,P018,Pain and inflammation,West,46-60,Retail,903
+pharma-b,P002,Calcium supplementation,East,31-45,Acute Care,718
+pharma-a,P002,Hypertension management,West,18-30,Prescription,900
+pharma-a,P018,Fever and pain management,North,31-45,Prescription,991
+pharma-a,P012,Type 2 diabetes,East,61+,Acute Care,610
+pharma-a,P005,Blood clot prevention,East,46-60,Hospital,225
+pharma-a,P015,Acid reflux management,North,31-45,Chronic Care,449
+pharma-b,P017,Type 2 diabetes,North,46-60,Retail,832
+pharma-b,P012,Blood clot prevention,South,31-45,Acute Care,531
+pharma-a,P005,Calcium supplementation,West,61+,Chronic Care,569
+pharma-b,P001,Hypertension management,South,18-30,Acute Care,171
+pharma-a,P011,Cholesterol management,West,31-45,Chronic Care,162
+pharma-b,P002,Blood clot prevention,South,18-30,Acute Care,402
+pharma-b,P013,Blood clot prevention,East,46-60,Retail,108
+pharma-b,P017,Cardiovascular protection,South,61+,Chronic Care,759
+pharma-a,P018,Cardiovascular protection,West,46-60,Chronic Care,894
+pharma-a,P010,Bacterial infections,North,46-60,Chronic Care,842
+pharma-a,P017,Diabetes management,East,31-45,Prescription,623
+pharma-b,P017,Cholesterol management,South,18-30,Prescription,915
+pharma-b,P008,Nutritional supplementation,East,61+,Acute Care,213
+pharma-a,P012,Allergy management,East,18-30,Prescription,874
+pharma-a,P015,Allergy management,North,61+,Retail,341
+pharma-a,P012,Allergy management,East,31-45,Chronic Care,632
+pharma-a,P004,Cholesterol management,South,46-60,Chronic Care,200
+pharma-a,P014,Nutritional supplementation,West,18-30,Prescription,163
+pharma-b,P005,Hypertension management,South,61+,Prescription,478
+pharma-b,P019,Diabetes management,West,46-60,Acute Care,610
+pharma-b,P015,Vitamin D supplementation,West,61+,Hospital,247
+pharma-a,P016,Vitamin D supplementation,West,31-45,Acute Care,983
+pharma-a,P007,Hypertension management,West,18-30,Hospital,672
+pharma-b,P004,Cardiovascular protection,West,18-30,Prescription,478
+pharma-b,P002,Diabetes management,South,18-30,Retail,412
+pharma-b,P010,Allergy management,West,18-30,Hospital,245
+pharma-b,P002,Allergy management,East,31-45,Hospital,938
+pharma-b,P001,Bacterial infections,East,18-30,Prescription,527
+pharma-b,P019,Allergy management,West,46-60,Chronic Care,586
+pharma-a,P005,Diabetes management,West,61+,Chronic Care,252
+pharma-b,P003,Calcium supplementation,West,61+,Hospital,504
+pharma-b,P018,Fever and pain management,West,46-60,Prescription,986
+pharma-a,P001,Cardiovascular protection,East,18-30,Acute Care,187
+pharma-a,P020,Diabetes management,North,31-45,Chronic Care,614
+pharma-a,P004,Blood clot prevention,South,18-30,Retail,905
+pharma-a,P008,Nutritional supplementation,West,18-30,Acute Care,721
+pharma-b,P013,Cardiovascular protection,North,61+,Prescription,448
+pharma-b,P006,Acid reflux management,North,46-60,Chronic Care,363
+pharma-a,P004,Bacterial infections,South,46-60,Hospital,287
+pharma-b,P003,Type 2 diabetes,East,61+,Hospital,160
+pharma-b,P006,Fever and pain management,North,46-60,Chronic Care,201
+pharma-b,P005,Acid reflux management,East,46-60,Chronic Care,947
+pharma-a,P002,Pain and inflammation,South,31-45,Chronic Care,620
+pharma-b,P004,Allergy management,North,46-60,Chronic Care,666
+pharma-b,P003,Hypertension management,North,61+,Hospital,119
+pharma-b,P018,Cardiovascular protection,North,31-45,Acute Care,767
+pharma-a,P010,Cardiovascular protection,West,61+,Prescription,966
+pharma-a,P005,Cholesterol management,South,31-45,Acute Care,533
+pharma-b,P002,Fever and pain management,West,46-60,Hospital,100
+pharma-a,P016,Allergy management,East,61+,Retail,962
+pharma-a,P019,Nutritional supplementation,East,18-30,Hospital,856
+pharma-a,P010,Bacterial infections,West,18-30,Hospital,842
+pharma-b,P014,Pain and inflammation,East,46-60,Retail,870
+pharma-b,P009,Pain and inflammation,East,46-60,Hospital,570
+pharma-b,P001,Vitamin D supplementation,South,18-30,Acute Care,587
+pharma-a,P001,Blood clot prevention,South,61+,Acute Care,813
+pharma-b,P013,Diabetes management,North,18-30,Acute Care,131
+pharma-b,P004,Cholesterol management,West,46-60,Chronic Care,281
+pharma-a,P004,Hypertension management,East,31-45,Chronic Care,109
+pharma-a,P001,Calcium supplementation,East,46-60,Hospital,192
+pharma-b,P008,Pain and inflammation,West,46-60,Prescription,387
+pharma-b,P020,Pain and inflammation,North,31-45,Chronic Care,213
+pharma-b,P019,Diabetes management,West,31-45,Acute Care,298
+pharma-a,P003,Cardiovascular protection,South,18-30,Hospital,365
+pharma-a,P017,Vitamin D supplementation,East,31-45,Prescription,809
+pharma-b,P018,Hypertension management,North,61+,Prescription,974
+pharma-b,P014,Nutritional supplementation,West,46-60,Prescription,796
+pharma-b,P016,Cholesterol management,North,31-45,Prescription,384
+pharma-b,P018,Hypertension management,East,18-30,Chronic Care,299
+pharma-b,P003,Cardiovascular protection,North,31-45,Chronic Care,176
+pharma-a,P007,Type 2 diabetes,East,46-60,Prescription,741
+pharma-a,P001,Hypertension management,West,18-30,Acute Care,916
+pharma-b,P009,Pain and inflammation,North,61+,Hospital,448
+pharma-a,P011,Diabetes management,South,18-30,Acute Care,734
+pharma-b,P004,Blood clot prevention,West,18-30,Prescription,162
+pharma-a,P013,Cholesterol management,North,31-45,Prescription,921
+pharma-b,P002,Allergy management,West,18-30,Prescription,793
+pharma-a,P018,Fever and pain management,East,61+,Chronic Care,198
+pharma-b,P008,Nutritional supplementation,North,61+,Chronic Care,575
+pharma-b,P020,Cardiovascular protection,North,46-60,Prescription,564
+pharma-b,P019,Pain and inflammation,North,18-30,Prescription,709
+pharma-a,P019,Calcium supplementation,South,31-45,Acute Care,362
+pharma-b,P014,Hypertension management,West,31-45,Hospital,240
+pharma-a,P002,Type 2 diabetes,East,61+,Acute Care,767
+pharma-b,P010,Cardiovascular protection,South,31-45,Chronic Care,416
+pharma-b,P010,Cholesterol management,North,31-45,Prescription,343
+pharma-a,P014,Cholesterol management,South,31-45,Hospital,904
+pharma-a,P011,Pain and inflammation,West,61+,Acute Care,809
+pharma-b,P019,Cardiovascular protection,East,46-60,Chronic Care,436
+pharma-a,P004,Hypertension management,North,61+,Hospital,103
+pharma-a,P008,Hypertension management,South,31-45,Chronic Care,852
+pharma-b,P013,Pain and inflammation,West,31-45,Prescription,471
+pharma-a,P003,Cholesterol management,North,18-30,Hospital,397
+pharma-b,P007,Blood clot prevention,East,18-30,Prescription,303
+pharma-a,P010,Type 2 diabetes,South,46-60,Hospital,447
+pharma-a,P006,Pain and inflammation,North,31-45,Retail,203
+pharma-a,P005,Acid reflux management,North,46-60,Hospital,412
+pharma-b,P008,Cholesterol management,East,31-45,Acute Care,918
+pharma-b,P003,Bacterial infections,South,31-45,Hospital,296
+pharma-b,P012,Cholesterol management,West,31-45,Prescription,881
+pharma-a,P018,Allergy management,South,46-60,Hospital,154
+pharma-b,P005,Nutritional supplementation,West,31-45,Prescription,903
+pharma-b,P020,Bacterial infections,South,61+,Acute Care,483
+pharma-b,P017,Hypertension management,South,46-60,Retail,638
+pharma-b,P016,Hypertension management,East,61+,Acute Care,765
+pharma-a,P007,Pain and inflammation,South,61+,Hospital,505
+pharma-a,P010,Acid reflux management,West,31-45,Retail,360
+pharma-a,P005,Calcium supplementation,North,46-60,Chronic Care,631
+pharma-b,P008,Cardiovascular protection,North,61+,Acute Care,736
+pharma-b,P014,Hypertension management,West,61+,Chronic Care,476
+pharma-b,P011,Allergy management,West,18-30,Hospital,552
+pharma-a,P009,Blood clot prevention,North,46-60,Prescription,401
+pharma-a,P009,Pain and inflammation,North,18-30,Prescription,468
+pharma-a,P018,Pain and inflammation,East,31-45,Retail,356
+pharma-b,P009,Pain and inflammation,South,46-60,Prescription,888
+pharma-b,P010,Nutritional supplementation,East,61+,Chronic Care,941
+pharma-a,P016,Blood clot prevention,South,61+,Hospital,332
+pharma-a,P016,Pain and inflammation,West,61+,Retail,910
+pharma-a,P011,Nutritional supplementation,South,61+,Chronic Care,314
+pharma-b,P015,Nutritional supplementation,North,46-60,Hospital,691
+pharma-a,P010,Vitamin D supplementation,North,61+,Retail,447
+pharma-a,P014,Acid reflux management,West,46-60,Retail,701
+pharma-a,P019,Calcium supplementation,North,31-45,Hospital,438
+pharma-b,P013,Pain and inflammation,West,18-30,Acute Care,495
+pharma-a,P016,Bacterial infections,East,61+,Retail,195
+pharma-a,P004,Blood clot prevention,South,18-30,Acute Care,600
+pharma-a,P006,Pain and inflammation,North,61+,Retail,310
+pharma-a,P010,Blood clot prevention,North,61+,Prescription,477
+pharma-a,P006,Cholesterol management,West,61+,Hospital,213
+pharma-a,P018,Acid reflux management,West,18-30,Chronic Care,986
+pharma-a,P005,Nutritional supplementation,South,46-60,Chronic Care,937
+pharma-b,P006,Cardiovascular protection,East,31-45,Acute Care,833
+pharma-b,P009,Pain and inflammation,North,31-45,Chronic Care,165
+pharma-b,P020,Calcium supplementation,South,46-60,Acute Care,1000
+pharma-b,P015,Hypertension management,North,18-30,Retail,761
+pharma-b,P012,Vitamin D supplementation,East,61+,Acute Care,943
+pharma-a,P014,Pain and inflammation,South,61+,Chronic Care,493
+pharma-a,P019,Bacterial infections,West,18-30,Hospital,991
+pharma-a,P009,Blood clot prevention,East,18-30,Hospital,605
+pharma-b,P018,Bacterial infections,East,18-30,Prescription,616
+pharma-b,P014,Hypertension management,South,46-60,Hospital,618
+pharma-a,P015,Fever and pain management,North,61+,Chronic Care,451
+pharma-b,P007,Acid reflux management,North,18-30,Retail,217
+pharma-a,P011,Blood clot prevention,West,61+,Chronic Care,169
+pharma-a,P018,Blood clot prevention,South,61+,Hospital,582
+pharma-b,P006,Type 2 diabetes,North,18-30,Hospital,401
+pharma-a,P018,Vitamin D supplementation,West,31-45,Prescription,787
+pharma-a,P009,Type 2 diabetes,West,46-60,Hospital,321
+pharma-a,P018,Pain and inflammation,West,18-30,Acute Care,756
+pharma-a,P013,Vitamin D supplementation,East,61+,Prescription,712
+pharma-a,P002,Calcium supplementation,West,31-45,Hospital,483
+pharma-a,P007,Bacterial infections,North,61+,Prescription,114
+pharma-b,P007,Blood clot prevention,North,31-45,Prescription,916
+pharma-a,P006,Fever and pain management,West,18-30,Retail,430
+pharma-a,P020,Pain and inflammation,West,61+,Prescription,337
+pharma-a,P004,Cholesterol management,East,31-45,Prescription,511
+pharma-b,P001,Acid reflux management,South,61+,Hospital,167
+pharma-b,P020,Cholesterol management,North,18-30,Hospital,520
+pharma-b,P020,Hypertension management,North,31-45,Retail,197
+pharma-b,P013,Blood clot prevention,South,46-60,Hospital,750
+pharma-b,P016,Bacterial infections,East,18-30,Acute Care,699
+pharma-b,P013,Diabetes management,South,18-30,Hospital,121
+pharma-a,P010,Pain and inflammation,West,31-45,Acute Care,181
+pharma-a,P005,Cholesterol management,West,46-60,Hospital,255
+pharma-b,P007,Blood clot prevention,North,31-45,Acute Care,554
+pharma-b,P005,Allergy management,East,18-30,Acute Care,910
+pharma-b,P010,Calcium supplementation,North,31-45,Retail,450
+pharma-a,P007,Diabetes management,North,31-45,Hospital,722
+pharma-b,P017,Cholesterol management,South,61+,Prescription,166
+pharma-b,P003,Pain and inflammation,North,31-45,Hospital,228
+pharma-a,P006,Cardiovascular protection,South,31-45,Acute Care,180
+pharma-b,P015,Allergy management,South,31-45,Hospital,534
+pharma-a,P020,Pain and inflammation,East,46-60,Acute Care,559
+pharma-a,P009,Nutritional supplementation,West,18-30,Retail,507
+pharma-b,P006,Hypertension management,West,61+,Acute Care,724
+pharma-b,P005,Nutritional supplementation,West,18-30,Chronic Care,537
+pharma-a,P010,Cardiovascular protection,South,31-45,Retail,489
+pharma-b,P010,Hypertension management,East,61+,Acute Care,720
+pharma-b,P003,Cholesterol management,South,61+,Hospital,258
+pharma-a,P001,Fever and pain management,East,61+,Chronic Care,525
+pharma-b,P012,Acid reflux management,West,46-60,Acute Care,172
+pharma-b,P002,Bacterial infections,West,31-45,Hospital,881
+pharma-b,P009,Calcium supplementation,East,61+,Retail,813
+pharma-a,P013,Acid reflux management,South,31-45,Chronic Care,135
+pharma-b,P001,Vitamin D supplementation,South,46-60,Acute Care,566
+pharma-a,P009,Pain and inflammation,South,18-30,Prescription,889
+pharma-a,P013,Acid reflux management,North,31-45,Chronic Care,269
+pharma-b,P009,Vitamin D supplementation,East,61+,Acute Care,415
+pharma-b,P003,Bacterial infections,East,31-45,Retail,866
+pharma-a,P013,Vitamin D supplementation,East,18-30,Hospital,935
+pharma-b,P001,Bacterial infections,North,61+,Acute Care,526
+pharma-b,P014,Type 2 diabetes,South,46-60,Hospital,820
+pharma-a,P007,Hypertension management,South,18-30,Chronic Care,680
+pharma-a,P006,Pain and inflammation,North,31-45,Hospital,365
+pharma-b,P015,Blood clot prevention,North,31-45,Prescription,400
+pharma-a,P013,Bacterial infections,East,18-30,Retail,130
+pharma-a,P016,Hypertension management,North,18-30,Prescription,372
+pharma-a,P019,Calcium supplementation,North,18-30,Hospital,634
+pharma-a,P013,Cardiovascular protection,East,61+,Chronic Care,875
+pharma-b,P020,Acid reflux management,East,46-60,Retail,422
+pharma-a,P012,Blood clot prevention,West,61+,Acute Care,158
+pharma-b,P011,Calcium supplementation,North,18-30,Chronic Care,991
+pharma-b,P005,Fever and pain management,North,46-60,Hospital,477
+pharma-b,P020,Blood clot prevention,West,61+,Hospital,103
+pharma-b,P001,Blood clot prevention,East,18-30,Retail,794
+pharma-b,P008,Cardiovascular protection,West,61+,Acute Care,913
+pharma-a,P012,Acid reflux management,West,18-30,Chronic Care,400
+pharma-a,P005,Nutritional supplementation,North,31-45,Chronic Care,915
+pharma-a,P010,Nutritional supplementation,West,31-45,Chronic Care,218
+pharma-b,P018,Pain and inflammation,South,31-45,Hospital,871
+pharma-a,P004,Acid reflux management,North,31-45,Retail,492
+pharma-b,P008,Vitamin D supplementation,East,61+,Prescription,781
+pharma-a,P018,Blood clot prevention,West,18-30,Retail,992
+pharma-a,P019,Calcium supplementation,North,46-60,Chronic Care,834
+pharma-b,P018,Nutritional supplementation,West,31-45,Hospital,365
+pharma-a,P010,Bacterial infections,North,18-30,Retail,858
+pharma-a,P004,Cardiovascular protection,East,31-45,Retail,489
+pharma-a,P010,Fever and pain management,South,61+,Chronic Care,427
+pharma-b,P005,Diabetes management,South,18-30,Chronic Care,109
+pharma-b,P011,Type 2 diabetes,East,31-45,Chronic Care,796
+pharma-b,P005,Cardiovascular protection,East,31-45,Prescription,713
+pharma-b,P010,Diabetes management,North,46-60,Acute Care,589
+pharma-a,P016,Allergy management,West,18-30,Retail,256
+pharma-a,P008,Vitamin D supplementation,North,31-45,Chronic Care,844
+pharma-b,P010,Nutritional supplementation,South,18-30,Acute Care,501
+pharma-b,P014,Blood clot prevention,West,46-60,Chronic Care,500
+pharma-a,P017,Vitamin D supplementation,East,46-60,Hospital,817
+pharma-b,P004,Type 2 diabetes,East,18-30,Retail,568
+pharma-a,P019,Type 2 diabetes,West,61+,Retail,248
+pharma-a,P007,Calcium supplementation,South,18-30,Retail,843
+pharma-a,P005,Acid reflux management,West,31-45,Prescription,198
+pharma-b,P016,Type 2 diabetes,North,18-30,Acute Care,765
+pharma-b,P019,Acid reflux management,South,61+,Hospital,134
+pharma-a,P008,Acid reflux management,West,46-60,Acute Care,276
+pharma-b,P003,Calcium supplementation,West,61+,Retail,747
+pharma-b,P012,Fever and pain management,North,18-30,Prescription,224
+pharma-b,P017,Pain and inflammation,North,61+,Retail,810
+pharma-a,P019,Type 2 diabetes,West,61+,Chronic Care,405
+pharma-a,P004,Cholesterol management,North,31-45,Chronic Care,932
+pharma-a,P013,Diabetes management,West,18-30,Acute Care,957
+pharma-a,P007,Blood clot prevention,North,31-45,Acute Care,811
+pharma-a,P001,Diabetes management,West,46-60,Prescription,140
+pharma-a,P019,Pain and inflammation,South,18-30,Acute Care,362
+pharma-a,P003,Bacterial infections,East,46-60,Acute Care,275
+pharma-b,P001,Pain and inflammation,East,18-30,Acute Care,901
+pharma-b,P018,Hypertension management,South,61+,Retail,635
+pharma-b,P020,Diabetes management,South,18-30,Prescription,342
+pharma-a,P007,Type 2 diabetes,East,31-45,Hospital,716
+pharma-a,P019,Cholesterol management,East,31-45,Acute Care,532
+pharma-a,P018,Allergy management,East,61+,Hospital,509
+pharma-b,P003,Allergy management,West,31-45,Acute Care,308
+pharma-a,P009,Blood clot prevention,South,46-60,Acute Care,773
+pharma-a,P014,Nutritional supplementation,South,46-60,Chronic Care,488
+pharma-a,P020,Pain and inflammation,North,46-60,Prescription,644
+pharma-a,P018,Acid reflux management,North,46-60,Prescription,471
+pharma-b,P009,Type 2 diabetes,South,46-60,Prescription,200
+pharma-b,P008,Acid reflux management,North,18-30,Hospital,639
+pharma-b,P019,Nutritional supplementation,West,18-30,Acute Care,457
+pharma-b,P018,Allergy management,North,18-30,Hospital,425
+pharma-b,P006,Cholesterol management,West,61+,Acute Care,230
+pharma-b,P001,Blood clot prevention,South,31-45,Hospital,487
+pharma-b,P002,Vitamin D supplementation,East,31-45,Acute Care,528
+pharma-b,P006,Hypertension management,East,61+,Acute Care,393
+pharma-b,P014,Diabetes management,South,46-60,Prescription,412
+pharma-b,P011,Nutritional supplementation,North,18-30,Prescription,847
+pharma-a,P003,Type 2 diabetes,North,18-30,Retail,667
+pharma-b,P001,Acid reflux management,South,61+,Chronic Care,627
+pharma-a,P013,Fever and pain management,South,18-30,Chronic Care,819
+pharma-b,P008,Vitamin D supplementation,North,61+,Hospital,790
+pharma-a,P006,Bacterial infections,East,31-45,Acute Care,461
+pharma-a,P014,Hypertension management,West,31-45,Retail,215
+pharma-b,P008,Nutritional supplementation,North,46-60,Retail,594
+pharma-b,P009,Pain and inflammation,North,61+,Hospital,412
+pharma-a,P015,Cardiovascular protection,West,18-30,Retail,106
+pharma-b,P011,Allergy management,East,18-30,Prescription,458
+pharma-a,P013,Cholesterol management,North,18-30,Chronic Care,603
+pharma-a,P003,Diabetes management,South,61+,Prescription,599
+pharma-a,P005,Calcium supplementation,East,31-45,Chronic Care,504
+pharma-b,P010,Cholesterol management,West,31-45,Acute Care,931
+pharma-b,P004,Hypertension management,West,31-45,Hospital,462
+pharma-b,P001,Cholesterol management,South,18-30,Hospital,391
+pharma-a,P005,Acid reflux management,West,46-60,Prescription,264
+pharma-a,P016,Blood clot prevention,East,18-30,Chronic Care,600
+pharma-b,P005,Cholesterol management,West,61+,Hospital,212
+pharma-a,P001,Type 2 diabetes,South,46-60,Acute Care,113
+pharma-a,P002,Blood clot prevention,East,61+,Acute Care,855
+pharma-a,P014,Hypertension management,East,46-60,Chronic Care,184
+pharma-b,P008,Cardiovascular protection,South,31-45,Hospital,387
+pharma-a,P009,Vitamin D supplementation,South,61+,Hospital,585
+pharma-a,P017,Cardiovascular protection,South,31-45,Acute Care,744
+pharma-a,P008,Bacterial infections,South,61+,Prescription,380
+pharma-a,P005,Acid reflux management,North,31-45,Prescription,985
+pharma-a,P013,Acid reflux management,East,31-45,Hospital,444
+pharma-b,P016,Fever and pain management,West,18-30,Retail,212
+pharma-b,P012,Allergy management,East,61+,Hospital,427
+pharma-a,P006,Fever and pain management,North,18-30,Retail,317
+pharma-b,P016,Allergy management,North,61+,Hospital,358
+pharma-b,P012,Cholesterol management,East,18-30,Prescription,785
+pharma-a,P018,Calcium supplementation,South,46-60,Retail,859
+pharma-b,P019,Diabetes management,East,31-45,Retail,315
+pharma-b,P003,Bacterial infections,South,18-30,Prescription,700
+pharma-a,P007,Vitamin D supplementation,West,18-30,Prescription,659
+pharma-b,P010,Vitamin D supplementation,West,31-45,Acute Care,838
+pharma-a,P002,Type 2 diabetes,South,61+,Acute Care,828
+pharma-b,P018,Cholesterol management,East,61+,Prescription,546
+pharma-a,P016,Acid reflux management,North,31-45,Acute Care,380
+pharma-a,P010,Fever and pain management,North,31-45,Chronic Care,606
+pharma-a,P006,Hypertension management,West,61+,Chronic Care,721
+pharma-b,P007,Type 2 diabetes,North,31-45,Acute Care,323
+pharma-a,P017,Hypertension management,East,46-60,Hospital,403
+pharma-b,P018,Bacterial infections,South,31-45,Prescription,646
+pharma-a,P010,Fever and pain management,South,46-60,Hospital,376
+pharma-a,P008,Nutritional supplementation,South,18-30,Prescription,764
+pharma-b,P020,Cholesterol management,East,18-30,Acute Care,370
+pharma-a,P014,Cardiovascular protection,East,46-60,Prescription,740
+pharma-a,P012,Pain and inflammation,East,31-45,Retail,116
+pharma-a,P013,Blood clot prevention,East,31-45,Chronic Care,325
+pharma-b,P009,Pain and inflammation,West,31-45,Chronic Care,337
+pharma-b,P012,Type 2 diabetes,West,18-30,Chronic Care,285
+pharma-b,P006,Nutritional supplementation,South,31-45,Acute Care,602
+pharma-a,P010,Fever and pain management,East,31-45,Hospital,937
+pharma-b,P020,Pain and inflammation,North,31-45,Prescription,536
+pharma-a,P015,Blood clot prevention,West,18-30,Acute Care,240
+pharma-a,P020,Bacterial infections,West,61+,Prescription,212
+pharma-a,P002,Type 2 diabetes,South,18-30,Retail,246
+pharma-a,P001,Calcium supplementation,North,46-60,Prescription,307
+pharma-a,P016,Calcium supplementation,West,31-45,Retail,439
+pharma-b,P005,Pain and inflammation,North,46-60,Acute Care,226
+pharma-a,P002,Bacterial infections,East,18-30,Acute Care,956
+pharma-b,P005,Fever and pain management,South,18-30,Hospital,537
+pharma-b,P005,Cholesterol management,East,31-45,Chronic Care,803
+pharma-a,P016,Type 2 diabetes,North,31-45,Prescription,388
+pharma-b,P003,Cardiovascular protection,East,18-30,Retail,186
+pharma-a,P020,Type 2 diabetes,South,61+,Acute Care,442
+pharma-a,P014,Type 2 diabetes,East,46-60,Retail,996
+pharma-a,P009,Hypertension management,East,46-60,Prescription,907
+pharma-a,P005,Calcium supplementation,South,46-60,Hospital,499
+pharma-b,P016,Nutritional supplementation,North,18-30,Acute Care,537
+pharma-b,P005,Bacterial infections,East,31-45,Hospital,885
+pharma-b,P012,Cholesterol management,West,61+,Chronic Care,810
+pharma-b,P020,Calcium supplementation,East,31-45,Hospital,492
+pharma-b,P018,Hypertension management,West,31-45,Chronic Care,185
+pharma-b,P017,Cardiovascular protection,South,18-30,Hospital,470
+pharma-a,P007,Nutritional supplementation,North,46-60,Acute Care,585
+pharma-a,P004,Fever and pain management,East,46-60,Hospital,401
+pharma-b,P005,Nutritional supplementation,West,31-45,Hospital,947
+pharma-a,P002,Vitamin D supplementation,South,18-30,Hospital,486
+pharma-a,P014,Cholesterol management,North,18-30,Acute Care,175
+pharma-b,P020,Nutritional supplementation,South,18-30,Hospital,474
+pharma-a,P003,Pain and inflammation,North,18-30,Acute Care,951
+pharma-b,P005,Calcium supplementation,South,61+,Hospital,866
+pharma-b,P016,Acid reflux management,East,61+,Prescription,393
+pharma-a,P005,Fever and pain management,North,31-45,Acute Care,264
+pharma-a,P013,Nutritional supplementation,West,61+,Acute Care,828
+pharma-b,P019,Diabetes management,East,31-45,Chronic Care,260
+pharma-b,P003,Diabetes management,West,31-45,Hospital,510
+pharma-a,P008,Acid reflux management,South,18-30,Chronic Care,588
+pharma-b,P013,Nutritional supplementation,West,31-45,Prescription,922
+pharma-b,P014,Pain and inflammation,East,18-30,Prescription,179
+pharma-b,P020,Calcium supplementation,East,18-30,Hospital,388
+pharma-a,P018,Bacterial infections,North,31-45,Acute Care,111
+pharma-b,P007,Diabetes management,South,18-30,Hospital,375
+pharma-a,P019,Cardiovascular protection,North,61+,Prescription,149
+pharma-b,P003,Allergy management,North,46-60,Retail,507
+pharma-a,P011,Calcium supplementation,West,46-60,Hospital,819
+pharma-a,P011,Acid reflux management,North,31-45,Prescription,701
+pharma-b,P016,Cardiovascular protection,North,46-60,Hospital,255
+pharma-b,P003,Blood clot prevention,North,31-45,Hospital,926
+pharma-a,P006,Diabetes management,East,61+,Hospital,447
+pharma-b,P012,Cardiovascular protection,West,18-30,Chronic Care,344
+pharma-a,P020,Cardiovascular protection,North,31-45,Acute Care,742
+pharma-b,P004,Calcium supplementation,North,31-45,Retail,660
+pharma-a,P016,Bacterial infections,West,46-60,Hospital,402
+pharma-a,P003,Allergy management,East,46-60,Prescription,172
+pharma-a,P015,Allergy management,West,46-60,Chronic Care,765
+pharma-a,P004,Cardiovascular protection,West,18-30,Retail,979
+pharma-b,P013,Acid reflux management,South,61+,Retail,624
+pharma-b,P012,Bacterial infections,West,61+,Retail,998
+pharma-a,P020,Blood clot prevention,North,31-45,Acute Care,108
+pharma-a,P004,Allergy management,West,31-45,Acute Care,508
+pharma-a,P008,Acid reflux management,West,18-30,Retail,577
+pharma-b,P018,Nutritional supplementation,West,18-30,Prescription,284
+pharma-a,P013,Calcium supplementation,West,31-45,Chronic Care,436
+pharma-a,P011,Cholesterol management,West,31-45,Chronic Care,217
+pharma-b,P015,Fever and pain management,South,61+,Hospital,755
+pharma-a,P011,Cardiovascular protection,North,61+,Prescription,927
+pharma-b,P014,Hypertension management,South,18-30,Hospital,988
+pharma-a,P014,Allergy management,East,31-45,Prescription,245
+pharma-a,P009,Acid reflux management,North,46-60,Chronic Care,992
+pharma-b,P017,Pain and inflammation,East,31-45,Prescription,194
+pharma-b,P011,Calcium supplementation,East,31-45,Hospital,457
+pharma-b,P016,Hypertension management,South,61+,Retail,809
+pharma-b,P001,Diabetes management,South,18-30,Acute Care,731
+pharma-a,P011,Blood clot prevention,East,18-30,Hospital,569
+pharma-a,P016,Nutritional supplementation,East,18-30,Chronic Care,369
+pharma-a,P015,Nutritional supplementation,South,61+,Acute Care,199
+pharma-a,P007,Vitamin D supplementation,South,61+,Acute Care,892
+pharma-a,P020,Acid reflux management,South,46-60,Hospital,295
+pharma-a,P012,Nutritional supplementation,East,18-30,Retail,414
+pharma-a,P016,Blood clot prevention,West,61+,Chronic Care,460
+pharma-b,P018,Acid reflux management,East,18-30,Hospital,569
+pharma-b,P012,Type 2 diabetes,South,61+,Chronic Care,391
+pharma-b,P010,Vitamin D supplementation,North,18-30,Prescription,191
+pharma-a,P020,Acid reflux management,North,61+,Acute Care,657
+pharma-a,P015,Diabetes management,North,46-60,Chronic Care,316
+pharma-a,P015,Diabetes management,West,18-30,Hospital,976
+pharma-b,P004,Cholesterol management,West,61+,Chronic Care,107
+pharma-b,P008,Diabetes management,East,46-60,Retail,414
+pharma-b,P008,Fever and pain management,West,18-30,Prescription,126
+pharma-a,P012,Nutritional supplementation,East,46-60,Hospital,685
+pharma-b,P008,Diabetes management,West,31-45,Acute Care,759
+pharma-b,P002,Calcium supplementation,West,31-45,Chronic Care,845
+pharma-a,P013,Cholesterol management,South,61+,Hospital,201
+pharma-a,P017,Bacterial infections,West,46-60,Acute Care,262
+pharma-b,P007,Bacterial infections,North,18-30,Chronic Care,111
+pharma-a,P001,Cardiovascular protection,North,61+,Prescription,860
+pharma-a,P015,Blood clot prevention,East,31-45,Hospital,768
+pharma-a,P010,Pain and inflammation,South,61+,Retail,775
+pharma-a,P009,Bacterial infections,South,18-30,Acute Care,987
+pharma-a,P004,Hypertension management,North,18-30,Hospital,389
+pharma-b,P006,Bacterial infections,North,61+,Retail,958
+pharma-a,P013,Bacterial infections,West,18-30,Chronic Care,175
+pharma-b,P003,Pain and inflammation,West,61+,Retail,748
+pharma-b,P006,Type 2 diabetes,East,18-30,Hospital,775
+pharma-a,P004,Cholesterol management,East,61+,Acute Care,714
+pharma-a,P006,Diabetes management,East,18-30,Hospital,720
+pharma-a,P018,Fever and pain management,South,31-45,Retail,217
+pharma-a,P001,Cholesterol management,South,31-45,Prescription,845
+pharma-a,P009,Allergy management,West,31-45,Prescription,456
+pharma-b,P015,Vitamin D supplementation,West,61+,Acute Care,509
+pharma-a,P009,Type 2 diabetes,South,46-60,Chronic Care,205
+pharma-b,P006,Calcium supplementation,South,61+,Chronic Care,556
+pharma-b,P020,Vitamin D supplementation,East,46-60,Acute Care,210
+pharma-b,P014,Pain and inflammation,East,46-60,Prescription,560
+pharma-a,P002,Diabetes management,East,61+,Retail,718
+pharma-b,P013,Fever and pain management,North,31-45,Retail,539
+pharma-a,P012,Pain and inflammation,North,31-45,Retail,480
+pharma-a,P011,Bacterial infections,North,46-60,Prescription,834
+pharma-b,P007,Hypertension management,East,31-45,Acute Care,167
+pharma-b,P010,Cardiovascular protection,South,31-45,Prescription,674
+pharma-b,P020,Calcium supplementation,North,61+,Chronic Care,425
+pharma-b,P007,Pain and inflammation,North,61+,Chronic Care,147
+pharma-b,P014,Bacterial infections,North,61+,Hospital,715
+pharma-b,P019,Acid reflux management,South,18-30,Retail,118
+pharma-a,P015,Allergy management,South,61+,Prescription,646
+pharma-a,P011,Blood clot prevention,North,18-30,Chronic Care,197
+pharma-b,P010,Allergy management,East,46-60,Chronic Care,181
+pharma-b,P016,Cardiovascular protection,North,61+,Retail,813
+pharma-b,P016,Nutritional supplementation,North,46-60,Acute Care,205
+pharma-a,P008,Fever and pain management,North,31-45,Prescription,430
+pharma-b,P008,Type 2 diabetes,North,31-45,Retail,935
+pharma-a,P002,Allergy management,North,18-30,Prescription,411
+pharma-a,P009,Cholesterol management,West,46-60,Hospital,241
+pharma-b,P004,Type 2 diabetes,East,31-45,Acute Care,970
+pharma-b,P015,Blood clot prevention,North,31-45,Acute Care,589
+pharma-b,P009,Cholesterol management,West,31-45,Prescription,370
+pharma-b,P003,Cholesterol management,South,31-45,Prescription,176
+pharma-b,P002,Pain and inflammation,North,31-45,Chronic Care,938
+pharma-b,P007,Hypertension management,North,46-60,Hospital,933
+pharma-b,P010,Vitamin D supplementation,West,31-45,Acute Care,208
+pharma-a,P008,Cholesterol management,West,61+,Acute Care,625
+pharma-a,P013,Pain and inflammation,North,46-60,Chronic Care,268
+pharma-b,P019,Blood clot prevention,North,31-45,Chronic Care,997
+pharma-a,P004,Pain and inflammation,North,61+,Hospital,373
+pharma-a,P016,Blood clot prevention,West,46-60,Retail,221
+pharma-a,P012,Acid reflux management,South,31-45,Chronic Care,614
+pharma-b,P017,Cholesterol management,North,61+,Retail,478
+pharma-a,P002,Blood clot prevention,West,61+,Hospital,401
+pharma-a,P013,Type 2 diabetes,East,61+,Acute Care,543
+pharma-a,P002,Blood clot prevention,South,18-30,Hospital,217
+pharma-a,P002,Cardiovascular protection,East,31-45,Prescription,644
+pharma-a,P009,Pain and inflammation,West,61+,Chronic Care,203
+pharma-a,P009,Hypertension management,South,31-45,Hospital,455
+pharma-b,P020,Allergy management,North,18-30,Hospital,615
+pharma-b,P010,Nutritional supplementation,South,31-45,Retail,797
+pharma-a,P006,Type 2 diabetes,East,61+,Hospital,113
+pharma-b,P014,Cholesterol management,North,31-45,Retail,178
+pharma-a,P001,Cardiovascular protection,East,61+,Acute Care,101
+pharma-b,P008,Hypertension management,North,18-30,Prescription,680
+pharma-b,P008,Diabetes management,South,31-45,Prescription,202
+pharma-b,P011,Hypertension management,West,46-60,Acute Care,363
+pharma-b,P009,Cholesterol management,West,18-30,Retail,408
+pharma-b,P017,Calcium supplementation,West,18-30,Retail,802
+pharma-a,P005,Acid reflux management,South,31-45,Retail,609
+pharma-a,P008,Cardiovascular protection,West,46-60,Hospital,862
+pharma-a,P007,Acid reflux management,North,46-60,Acute Care,560
+pharma-a,P009,Blood clot prevention,East,46-60,Chronic Care,703
+pharma-b,P009,Allergy management,South,18-30,Acute Care,632
+pharma-b,P020,Bacterial infections,West,61+,Acute Care,911
+pharma-b,P010,Bacterial infections,North,61+,Hospital,577
+pharma-a,P017,Allergy management,South,46-60,Chronic Care,395
+pharma-a,P010,Fever and pain management,West,18-30,Hospital,389
+pharma-a,P002,Hypertension management,East,18-30,Chronic Care,460
+pharma-a,P002,Allergy management,South,46-60,Retail,904
+pharma-a,P003,Vitamin D supplementation,East,31-45,Hospital,542
+pharma-a,P010,Pain and inflammation,North,61+,Retail,354
+pharma-b,P014,Acid reflux management,North,46-60,Retail,711
+pharma-b,P006,Cardiovascular protection,West,46-60,Acute Care,242
+pharma-a,P009,Type 2 diabetes,West,31-45,Retail,412
+pharma-a,P010,Cardiovascular protection,West,31-45,Chronic Care,901
+pharma-b,P004,Type 2 diabetes,West,46-60,Acute Care,801
+pharma-b,P015,Cholesterol management,West,61+,Chronic Care,520
+pharma-b,P001,Diabetes management,North,61+,Prescription,873
+pharma-a,P020,Allergy management,South,46-60,Hospital,735
+pharma-b,P002,Calcium supplementation,West,31-45,Chronic Care,786
+pharma-a,P015,Calcium supplementation,West,18-30,Prescription,156
+pharma-b,P004,Cholesterol management,North,46-60,Acute Care,593
+pharma-b,P002,Bacterial infections,North,31-45,Acute Care,247
+pharma-b,P005,Pain and inflammation,South,46-60,Retail,836
+pharma-a,P016,Cardiovascular protection,South,18-30,Prescription,100
+pharma-a,P020,Bacterial infections,North,31-45,Hospital,206
+pharma-b,P001,Nutritional supplementation,West,61+,Prescription,224
+pharma-b,P013,Hypertension management,South,31-45,Acute Care,366
+pharma-b,P020,Bacterial infections,West,31-45,Prescription,289
+pharma-a,P008,Type 2 diabetes,South,61+,Chronic Care,396
+pharma-b,P004,Cardiovascular protection,West,46-60,Retail,500
+pharma-b,P004,Hypertension management,West,61+,Hospital,128
+pharma-b,P015,Bacterial infections,West,18-30,Acute Care,410
+pharma-a,P020,Hypertension management,North,46-60,Hospital,579
+pharma-b,P009,Fever and pain management,South,46-60,Acute Care,976
+pharma-a,P012,Vitamin D supplementation,West,18-30,Hospital,771
+pharma-a,P012,Blood clot prevention,East,61+,Hospital,385
+pharma-b,P013,Bacterial infections,West,61+,Chronic Care,720
+pharma-a,P019,Vitamin D supplementation,East,31-45,Retail,702
+pharma-b,P019,Cardiovascular protection,West,18-30,Prescription,130
+pharma-a,P008,Bacterial infections,North,61+,Chronic Care,431
+pharma-a,P008,Bacterial infections,South,61+,Chronic Care,165
+pharma-a,P020,Allergy management,North,18-30,Prescription,552
+pharma-b,P020,Blood clot prevention,North,31-45,Retail,210
+pharma-b,P013,Type 2 diabetes,South,31-45,Retail,602
+pharma-b,P010,Pain and inflammation,South,31-45,Chronic Care,933
+pharma-a,P003,Cardiovascular protection,North,18-30,Hospital,134
+pharma-a,P001,Cholesterol management,West,18-30,Retail,289
+pharma-b,P007,Nutritional supplementation,South,61+,Acute Care,460
+pharma-b,P020,Diabetes management,South,18-30,Chronic Care,537
+pharma-b,P003,Cardiovascular protection,North,31-45,Acute Care,405
+pharma-a,P004,Hypertension management,South,18-30,Acute Care,653
+pharma-b,P001,Pain and inflammation,East,46-60,Chronic Care,820
+pharma-b,P003,Nutritional supplementation,South,46-60,Prescription,647
+pharma-a,P017,Cardiovascular protection,East,61+,Acute Care,158
+pharma-a,P019,Hypertension management,East,18-30,Prescription,446
+pharma-b,P009,Pain and inflammation,East,18-30,Hospital,309
+pharma-b,P002,Pain and inflammation,West,18-30,Acute Care,724
+pharma-a,P012,Bacterial infections,West,18-30,Acute Care,590
+pharma-a,P009,Vitamin D supplementation,North,18-30,Prescription,608
+pharma-a,P012,Acid reflux management,West,46-60,Hospital,121
+pharma-a,P001,Calcium supplementation,South,61+,Prescription,665
+pharma-b,P002,Acid reflux management,West,31-45,Chronic Care,818
+pharma-b,P018,Type 2 diabetes,North,61+,Prescription,730
+pharma-b,P012,Pain and inflammation,East,61+,Prescription,343
+pharma-a,P003,Cardiovascular protection,North,31-45,Chronic Care,865
+pharma-a,P001,Nutritional supplementation,South,18-30,Prescription,158
+pharma-a,P015,Type 2 diabetes,East,18-30,Retail,458
+pharma-a,P010,Type 2 diabetes,West,61+,Prescription,772
+pharma-a,P003,Allergy management,South,61+,Retail,979
+pharma-a,P015,Vitamin D supplementation,East,46-60,Acute Care,399
+pharma-a,P017,Allergy management,East,18-30,Prescription,454
+pharma-b,P020,Hypertension management,East,18-30,Hospital,240
+pharma-a,P010,Vitamin D supplementation,South,18-30,Retail,842
+pharma-a,P002,Pain and inflammation,West,61+,Prescription,121
+pharma-b,P002,Allergy management,East,61+,Retail,947
+pharma-a,P002,Allergy management,West,61+,Prescription,983
+pharma-b,P013,Hypertension management,North,31-45,Hospital,488
+pharma-a,P014,Diabetes management,North,46-60,Prescription,654
+pharma-b,P001,Cardiovascular protection,East,46-60,Acute Care,321
+pharma-a,P011,Vitamin D supplementation,West,61+,Prescription,926
+pharma-a,P018,Acid reflux management,East,61+,Chronic Care,686
+pharma-b,P006,Acid reflux management,West,31-45,Hospital,115
+pharma-b,P009,Bacterial infections,South,46-60,Retail,684
+pharma-b,P002,Cardiovascular protection,East,46-60,Retail,775
+pharma-b,P020,Fever and pain management,North,46-60,Acute Care,776
+pharma-b,P009,Nutritional supplementation,South,61+,Chronic Care,117
+pharma-b,P001,Hypertension management,North,46-60,Chronic Care,753
+pharma-a,P014,Fever and pain management,North,46-60,Acute Care,664
+pharma-b,P003,Hypertension management,South,46-60,Retail,365
+pharma-b,P005,Pain and inflammation,South,31-45,Acute Care,771
+pharma-a,P008,Bacterial infections,North,31-45,Acute Care,981
+pharma-b,P019,Cholesterol management,North,31-45,Prescription,831
+pharma-b,P009,Fever and pain management,East,18-30,Acute Care,340
+pharma-b,P004,Bacterial infections,West,18-30,Acute Care,179
+pharma-a,P007,Cholesterol management,East,61+,Prescription,757
+pharma-b,P010,Type 2 diabetes,North,46-60,Acute Care,907
+pharma-b,P011,Acid reflux management,East,61+,Retail,736
+pharma-a,P006,Cholesterol management,North,46-60,Hospital,705
+pharma-a,P004,Cardiovascular protection,South,46-60,Acute Care,832
+pharma-b,P007,Acid reflux management,North,31-45,Chronic Care,880
+pharma-a,P003,Pain and inflammation,West,18-30,Acute Care,917
+pharma-a,P020,Hypertension management,West,46-60,Retail,299
+pharma-b,P008,Cholesterol management,South,46-60,Hospital,566
+pharma-b,P004,Vitamin D supplementation,South,61+,Chronic Care,470
+pharma-a,P012,Diabetes management,North,46-60,Chronic Care,719
+pharma-a,P015,Calcium supplementation,West,31-45,Acute Care,947
+pharma-a,P018,Pain and inflammation,West,31-45,Acute Care,366
+pharma-b,P011,Cholesterol management,North,18-30,Chronic Care,531
+pharma-a,P019,Hypertension management,South,31-45,Chronic Care,115
+pharma-a,P004,Acid reflux management,East,61+,Prescription,229
+pharma-a,P014,Fever and pain management,South,18-30,Hospital,627
+pharma-b,P014,Cholesterol management,South,61+,Acute Care,347
+pharma-b,P004,Cholesterol management,East,18-30,Prescription,175
+pharma-b,P015,Acid reflux management,West,61+,Retail,875
+pharma-b,P005,Vitamin D supplementation,South,18-30,Hospital,107
+pharma-b,P015,Acid reflux management,East,61+,Hospital,620
+pharma-b,P004,Pain and inflammation,East,61+,Retail,149
+pharma-b,P010,Cholesterol management,West,46-60,Hospital,246
+pharma-a,P007,Acid reflux management,East,46-60,Prescription,455
+pharma-b,P006,Bacterial infections,East,46-60,Chronic Care,549
+pharma-a,P006,Allergy management,East,18-30,Hospital,782
+pharma-b,P005,Bacterial infections,South,31-45,Prescription,712
+pharma-a,P018,Diabetes management,South,18-30,Chronic Care,952
+pharma-a,P012,Pain and inflammation,East,61+,Chronic Care,633
+pharma-a,P015,Allergy management,North,18-30,Chronic Care,542
+pharma-b,P009,Bacterial infections,South,46-60,Prescription,462
+pharma-a,P008,Vitamin D supplementation,North,46-60,Hospital,619
+pharma-b,P009,Hypertension management,North,46-60,Prescription,543
+pharma-a,P017,Cholesterol management,South,18-30,Prescription,351
+pharma-a,P019,Acid reflux management,South,31-45,Retail,581
+pharma-a,P016,Nutritional supplementation,South,61+,Retail,234
+pharma-a,P003,Diabetes management,South,18-30,Chronic Care,168
+pharma-b,P018,Cardiovascular protection,South,31-45,Prescription,528
+pharma-b,P020,Acid reflux management,South,46-60,Chronic Care,643
+pharma-a,P010,Nutritional supplementation,South,46-60,Chronic Care,601
+pharma-b,P020,Cholesterol management,West,46-60,Prescription,324
+pharma-a,P010,Acid reflux management,West,46-60,Hospital,778
+pharma-b,P004,Type 2 diabetes,West,46-60,Prescription,455
+pharma-b,P005,Calcium supplementation,West,61+,Acute Care,521
+pharma-a,P001,Allergy management,East,31-45,Chronic Care,162
+pharma-b,P009,Blood clot prevention,East,61+,Chronic Care,928
+pharma-b,P014,Acid reflux management,East,18-30,Retail,597
+pharma-a,P011,Blood clot prevention,North,46-60,Chronic Care,519
+pharma-a,P019,Type 2 diabetes,South,18-30,Acute Care,725
+pharma-b,P005,Cardiovascular protection,North,18-30,Chronic Care,192
+pharma-b,P012,Calcium supplementation,North,18-30,Acute Care,315
+pharma-b,P018,Pain and inflammation,South,61+,Hospital,397
+pharma-a,P012,Cholesterol management,West,31-45,Acute Care,850
+pharma-a,P001,Fever and pain management,North,18-30,Acute Care,507
+pharma-b,P002,Type 2 diabetes,East,46-60,Prescription,335
+pharma-a,P002,Allergy management,North,61+,Chronic Care,234
+pharma-b,P003,Bacterial infections,North,61+,Prescription,115
+pharma-a,P004,Vitamin D supplementation,West,31-45,Acute Care,979
+pharma-b,P011,Acid reflux management,North,46-60,Retail,569
+pharma-a,P004,Allergy management,West,61+,Retail,539
+pharma-a,P008,Acid reflux management,East,61+,Retail,819
+pharma-a,P013,Fever and pain management,West,61+,Retail,881
+pharma-a,P015,Pain and inflammation,North,61+,Hospital,557
+pharma-b,P016,Cardiovascular protection,North,46-60,Retail,247
+pharma-a,P004,Diabetes management,South,31-45,Chronic Care,707
+pharma-a,P003,Type 2 diabetes,West,61+,Acute Care,840
+pharma-a,P002,Calcium supplementation,West,46-60,Chronic Care,418
+pharma-b,P005,Fever and pain management,East,61+,Prescription,374
+pharma-a,P018,Calcium supplementation,West,61+,Retail,767
+pharma-a,P011,Hypertension management,West,18-30,Prescription,535
+pharma-a,P013,Type 2 diabetes,North,31-45,Acute Care,866
+pharma-a,P006,Pain and inflammation,West,18-30,Prescription,534
+pharma-b,P006,Blood clot prevention,West,31-45,Acute Care,528
+pharma-b,P001,Allergy management,North,61+,Retail,837
+pharma-b,P017,Cholesterol management,East,31-45,Hospital,397
+pharma-a,P020,Vitamin D supplementation,East,46-60,Chronic Care,573
+pharma-a,P011,Vitamin D supplementation,South,31-45,Acute Care,832
+pharma-b,P001,Cholesterol management,West,31-45,Hospital,581
+pharma-a,P001,Allergy management,South,31-45,Prescription,650
+pharma-b,P011,Bacterial infections,North,61+,Acute Care,260
+pharma-a,P012,Blood clot prevention,South,46-60,Prescription,297
+pharma-b,P010,Nutritional supplementation,West,46-60,Retail,739
+pharma-b,P009,Diabetes management,South,18-30,Acute Care,256
+pharma-a,P007,Allergy management,South,46-60,Acute Care,204
+pharma-a,P017,Cardiovascular protection,West,46-60,Acute Care,890
+pharma-b,P020,Blood clot prevention,West,31-45,Hospital,102
+pharma-a,P007,Bacterial infections,South,31-45,Hospital,586
+pharma-a,P011,Bacterial infections,North,31-45,Acute Care,926
+pharma-b,P014,Blood clot prevention,West,46-60,Retail,612
+pharma-a,P008,Diabetes management,West,61+,Chronic Care,823
+pharma-b,P012,Allergy management,East,18-30,Acute Care,962
+pharma-a,P006,Blood clot prevention,East,31-45,Chronic Care,673
+pharma-b,P016,Vitamin D supplementation,East,18-30,Acute Care,545
+pharma-b,P006,Fever and pain management,East,61+,Retail,845
+pharma-b,P007,Cardiovascular protection,South,61+,Retail,283
+pharma-a,P007,Hypertension management,East,31-45,Prescription,700
+pharma-b,P011,Bacterial infections,East,46-60,Acute Care,113
+pharma-b,P002,Blood clot prevention,East,61+,Chronic Care,144
+pharma-b,P009,Blood clot prevention,North,18-30,Chronic Care,722
+pharma-b,P016,Type 2 diabetes,West,18-30,Prescription,478
+pharma-a,P020,Vitamin D supplementation,South,31-45,Hospital,184
+pharma-b,P004,Fever and pain management,West,18-30,Retail,199
+pharma-b,P007,Blood clot prevention,North,46-60,Retail,826
+pharma-a,P019,Vitamin D supplementation,East,18-30,Chronic Care,526
+pharma-a,P003,Pain and inflammation,South,46-60,Prescription,276
+pharma-b,P002,Allergy management,South,61+,Hospital,750
+pharma-a,P010,Allergy management,East,18-30,Retail,577
+pharma-a,P019,Hypertension management,North,18-30,Prescription,286
+pharma-a,P006,Cholesterol management,North,31-45,Prescription,322
+pharma-b,P015,Bacterial infections,South,46-60,Hospital,865
+pharma-a,P010,Fever and pain management,West,46-60,Hospital,385
+pharma-a,P019,Cholesterol management,West,31-45,Hospital,379
+pharma-a,P006,Allergy management,East,61+,Retail,194
+pharma-b,P012,Cardiovascular protection,East,46-60,Acute Care,560
+pharma-a,P002,Nutritional supplementation,West,31-45,Acute Care,682
+pharma-a,P014,Cholesterol management,East,31-45,Retail,816
+pharma-b,P003,Diabetes management,South,46-60,Hospital,578
+pharma-b,P002,Bacterial infections,South,61+,Hospital,578
+pharma-b,P012,Cardiovascular protection,West,18-30,Retail,818
+pharma-a,P012,Nutritional supplementation,North,31-45,Chronic Care,586
+pharma-b,P011,Blood clot prevention,North,31-45,Retail,413
+pharma-a,P015,Diabetes management,South,18-30,Chronic Care,928
+pharma-b,P019,Cardiovascular protection,West,61+,Chronic Care,954
+pharma-a,P009,Vitamin D supplementation,East,46-60,Chronic Care,794
+pharma-b,P010,Fever and pain management,South,18-30,Chronic Care,536
+pharma-b,P019,Acid reflux management,North,31-45,Acute Care,270
+pharma-b,P020,Vitamin D supplementation,South,31-45,Hospital,779
+pharma-b,P002,Bacterial infections,East,31-45,Retail,569
+pharma-b,P006,Hypertension management,North,31-45,Hospital,276
+pharma-b,P010,Bacterial infections,South,31-45,Hospital,547
+pharma-a,P008,Type 2 diabetes,East,18-30,Chronic Care,263
+pharma-b,P004,Hypertension management,West,31-45,Chronic Care,784
+pharma-b,P015,Vitamin D supplementation,South,18-30,Chronic Care,231
+pharma-b,P005,Acid reflux management,East,46-60,Chronic Care,711
+pharma-b,P018,Bacterial infections,East,61+,Acute Care,127
+pharma-a,P020,Type 2 diabetes,South,46-60,Retail,448
+pharma-a,P020,Cardiovascular protection,West,18-30,Hospital,241
+pharma-b,P007,Fever and pain management,South,46-60,Chronic Care,195
+pharma-b,P013,Blood clot prevention,South,61+,Hospital,391
+pharma-b,P013,Blood clot prevention,West,18-30,Retail,531
+pharma-a,P006,Acid reflux management,North,61+,Prescription,454
+pharma-a,P013,Calcium supplementation,North,31-45,Retail,231
+pharma-b,P015,Fever and pain management,West,61+,Chronic Care,889
+pharma-a,P010,Acid reflux management,East,18-30,Acute Care,926
+pharma-b,P017,Cholesterol management,West,46-60,Acute Care,473
+pharma-a,P006,Acid reflux management,West,18-30,Hospital,107
+pharma-b,P019,Allergy management,South,61+,Chronic Care,149
+pharma-b,P010,Fever and pain management,North,61+,Chronic Care,475
+pharma-a,P020,Blood clot prevention,East,46-60,Chronic Care,445
+pharma-b,P001,Diabetes management,East,31-45,Retail,465
+pharma-b,P001,Hypertension management,East,46-60,Prescription,710
+pharma-a,P012,Vitamin D supplementation,North,61+,Hospital,279
+pharma-a,P018,Bacterial infections,South,31-45,Chronic Care,541
+pharma-b,P012,Hypertension management,South,61+,Prescription,178
+pharma-b,P012,Fever and pain management,South,18-30,Chronic Care,624
+pharma-a,P011,Blood clot prevention,East,61+,Chronic Care,122
+pharma-a,P009,Vitamin D supplementation,North,61+,Prescription,912
+pharma-a,P019,Allergy management,East,31-45,Prescription,483
+pharma-b,P007,Calcium supplementation,West,46-60,Hospital,383
+pharma-a,P020,Acid reflux management,South,46-60,Retail,105
+pharma-b,P007,Fever and pain management,West,31-45,Retail,373
+pharma-b,P020,Calcium supplementation,East,18-30,Hospital,330
+pharma-a,P011,Pain and inflammation,North,46-60,Acute Care,946
+pharma-b,P019,Acid reflux management,East,61+,Chronic Care,671
+pharma-a,P011,Cholesterol management,East,46-60,Chronic Care,255
+pharma-b,P016,Pain and inflammation,South,61+,Retail,512
+pharma-a,P019,Bacterial infections,West,46-60,Prescription,312
+pharma-b,P010,Allergy management,East,61+,Chronic Care,130
+pharma-a,P020,Cardiovascular protection,South,46-60,Acute Care,541
+pharma-b,P001,Calcium supplementation,East,61+,Hospital,484
+pharma-a,P013,Cardiovascular protection,North,18-30,Chronic Care,323
+pharma-a,P004,Cardiovascular protection,East,31-45,Hospital,885
+pharma-b,P018,Acid reflux management,East,31-45,Chronic Care,713
+pharma-b,P011,Calcium supplementation,East,18-30,Retail,614
+pharma-b,P008,Nutritional supplementation,West,61+,Chronic Care,393
+pharma-b,P006,Nutritional supplementation,South,61+,Retail,103
+pharma-b,P015,Blood clot prevention,South,18-30,Chronic Care,694
+pharma-b,P014,Acid reflux management,South,18-30,Acute Care,329
+pharma-a,P020,Cardiovascular protection,North,61+,Prescription,432
+pharma-a,P006,Cardiovascular protection,West,18-30,Retail,123
+pharma-b,P018,Diabetes management,South,31-45,Chronic Care,477
+pharma-a,P006,Hypertension management,South,46-60,Hospital,400
+pharma-a,P001,Pain and inflammation,West,61+,Hospital,800
+pharma-b,P008,Calcium supplementation,South,61+,Acute Care,756
+pharma-a,P020,Nutritional supplementation,East,31-45,Hospital,573
+pharma-a,P001,Vitamin D supplementation,North,61+,Acute Care,581
+pharma-b,P003,Calcium supplementation,West,46-60,Acute Care,223
+pharma-a,P015,Hypertension management,North,46-60,Chronic Care,948
+pharma-a,P012,Acid reflux management,West,61+,Prescription,206
+pharma-a,P009,Calcium supplementation,North,31-45,Retail,522
+pharma-b,P005,Pain and inflammation,West,31-45,Retail,199
+pharma-b,P003,Hypertension management,West,31-45,Retail,450
+pharma-b,P015,Cholesterol management,West,46-60,Acute Care,381
+pharma-a,P005,Type 2 diabetes,East,18-30,Hospital,479
+pharma-b,P010,Allergy management,South,46-60,Chronic Care,830
+pharma-b,P010,Type 2 diabetes,South,31-45,Acute Care,399
+pharma-b,P009,Blood clot prevention,South,18-30,Hospital,697
+pharma-b,P005,Cardiovascular protection,North,46-60,Retail,838
+pharma-b,P016,Cardiovascular protection,South,46-60,Hospital,701
+pharma-b,P017,Cholesterol management,West,61+,Hospital,991
+pharma-b,P006,Hypertension management,West,18-30,Prescription,450
+pharma-a,P010,Pain and inflammation,South,31-45,Retail,723
+pharma-a,P007,Cholesterol management,West,61+,Acute Care,753
+pharma-a,P017,Pain and inflammation,South,46-60,Prescription,508
+pharma-a,P011,Diabetes management,North,46-60,Acute Care,647
+pharma-a,P002,Hypertension management,South,31-45,Retail,916
+pharma-a,P008,Pain and inflammation,West,31-45,Prescription,723
+pharma-b,P018,Allergy management,North,31-45,Prescription,235
+pharma-b,P002,Pain and inflammation,South,31-45,Acute Care,879
+pharma-b,P015,Bacterial infections,North,46-60,Prescription,301
+pharma-b,P004,Hypertension management,North,61+,Hospital,202
+pharma-a,P020,Hypertension management,East,18-30,Acute Care,540
+pharma-a,P015,Calcium supplementation,South,61+,Prescription,357
+pharma-b,P020,Allergy management,West,31-45,Retail,619
+pharma-b,P017,Allergy management,East,46-60,Acute Care,354
+pharma-b,P009,Blood clot prevention,East,61+,Prescription,874
+pharma-a,P016,Fever and pain management,East,61+,Chronic Care,267
+pharma-a,P003,Calcium supplementation,West,46-60,Prescription,982
+pharma-b,P011,Blood clot prevention,South,31-45,Prescription,881
+pharma-a,P007,Allergy management,East,46-60,Acute Care,583
+pharma-a,P010,Cardiovascular protection,South,31-45,Retail,260
+pharma-a,P013,Calcium supplementation,South,31-45,Acute Care,778
+pharma-a,P011,Diabetes management,West,61+,Retail,334
+pharma-b,P016,Nutritional supplementation,East,46-60,Hospital,413

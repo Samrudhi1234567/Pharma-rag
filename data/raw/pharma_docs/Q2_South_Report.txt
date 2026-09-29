@@ -1,0 +1,25 @@
+Tenant: pharma-a
+Allowed Roles: sales_manager, analyst
+Product: P001
+Region: South
+Year: 2026
+Quarter: Q2
+Classification: internal
+
+Regional Sales Report
+=====================
+
+Region: South
+Quarter: Q2
+Year: 2026
+
+Product P001 achieved the highest synthetic revenue
+performance in the South region during Q2.
+
+The strongest state-level contribution came from Karnataka.
+
+Sales performance exceeded the synthetic quarterly target
+during the reporting period.
+
+This report contains synthetic sales information created
+for the Pharma RAG evaluation system.

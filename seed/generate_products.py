@@ -1,0 +1,45 @@
+import os
+import pandas as pd
+
+OUTPUT_DIR = "data/raw"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+products = [
+    ["P001", "Paracetamol", "Analgesic", "Fever and pain management", "Tablet"],
+    ["P002", "Azithromycin", "Antibiotic", "Bacterial infections", "Tablet"],
+    ["P003", "Metformin", "Antidiabetic", "Type 2 diabetes", "Tablet"],
+    ["P004", "Ibuprofen", "Analgesic", "Pain and inflammation", "Tablet"],
+    ["P005", "Amoxicillin", "Antibiotic", "Bacterial infections", "Capsule"],
+    ["P006", "Cetirizine", "Antihistamine", "Allergy management", "Tablet"],
+    ["P007", "Atorvastatin", "Cardiovascular", "Cholesterol management", "Tablet"],
+    ["P008", "Omeprazole", "Gastrointestinal", "Acid reflux management", "Capsule"],
+    ["P009", "Losartan", "Cardiovascular", "Hypertension management", "Tablet"],
+    ["P010", "Insulin", "Antidiabetic", "Diabetes management", "Injection"],
+    ["P011", "Dolo", "Analgesic", "Fever and pain management", "Tablet"],
+    ["P012", "Crocin", "Analgesic", "Fever and pain management", "Tablet"],
+    ["P013", "Pantoprazole", "Gastrointestinal", "Acid reflux management", "Tablet"],
+    ["P014", "Telmisartan", "Cardiovascular", "Hypertension management", "Tablet"],
+    ["P015", "Levocetirizine", "Antihistamine", "Allergy management", "Tablet"],
+    ["P016", "Aspirin", "Cardiovascular", "Cardiovascular protection", "Tablet"],
+    ["P017", "Warfarin", "Anticoagulant", "Blood clot prevention", "Tablet"],
+    ["P018", "Vitamin D", "Nutritional", "Vitamin D supplementation", "Capsule"],
+    ["P019", "Calcium", "Nutritional", "Calcium supplementation", "Tablet"],
+    ["P020", "Multivitamin", "Nutritional", "Nutritional supplementation", "Tablet"],
+]
+
+df = pd.DataFrame(
+    products,
+    columns=[
+        "product_id",
+        "product_name",
+        "therapeutic_area",
+        "synthetic_indication",
+        "dosage_form",
+    ],
+)
+
+output_path = os.path.join(OUTPUT_DIR, "products.csv")
+df.to_csv(output_path, index=False)
+
+print(f"Created {output_path}")
+print(f"Total products: {len(df)}")

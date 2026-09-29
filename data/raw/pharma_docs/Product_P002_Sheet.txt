@@ -1,0 +1,23 @@
+Tenant: pharma-a
+Allowed Roles: analyst
+Product: P002
+Region: South
+Year: 2026
+Quarter: Q3
+Classification: internal
+
+Product ID: P002
+Product Name: Azithromycin
+Therapeutic Area: Antibiotic
+Synthetic Indication: Bacterial infections
+Dosage Form: Tablet
+
+Azithromycin demonstrated strong synthetic commercial performance
+during Q3 2026.
+
+The product showed significant demand across the South region.
+Sales performance remained consistent with the synthetic business
+targets for the reporting period.
+
+This document contains synthetic pharmaceutical product information
+created for the Pharma RAG evaluation system.

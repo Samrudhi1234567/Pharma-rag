@@ -1,0 +1,149 @@
+services:
+
+  postgres:
+    image: postgres:16
+    container_name: pharma-postgres
+
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+
+    ports:
+      - "${POSTGRES_PORT}:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+    restart: unless-stopped
+
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: pharma-qdrant
+
+    ports:
+      - "${QDRANT_PORT}:6333"
+      - "${QDRANT_GRPC_PORT}:6334"
+
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+    restart: unless-stopped
+
+
+  redis:
+    image: redis:7
+    container_name: pharma-redis
+
+    ports:
+      - "${REDIS_PORT}:6379"
+
+    volumes:
+      - redis_data:/data
+
+    command:
+      - redis-server
+      - --appendonly
+      - "yes"
+
+    restart: unless-stopped
+
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:latest
+    container_name: pharma-mlflow
+
+    ports:
+      - "${MLFLOW_PORT}:5000"
+
+    command:
+      - mlflow
+      - server
+      - --host
+      - 0.0.0.0
+      - --port
+      - "5000"
+      - --backend-store-uri
+      - sqlite:///mlflow.db
+
+    volumes:
+      - mlflow_data:/mlruns
+
+    restart: unless-stopped
+
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:latest
+    container_name: pharma-keycloak
+
+    environment:
+      KC_BOOTSTRAP_ADMIN_USERNAME: ${KEYCLOAK_ADMIN}
+      KC_BOOTSTRAP_ADMIN_PASSWORD: ${KEYCLOAK_ADMIN_PASSWORD}
+
+    ports:
+      - "${KEYCLOAK_PORT}:8080"
+
+    command:
+      - start-dev
+
+    restart: unless-stopped
+
+  api:
+    build:
+      context: ../..
+      dockerfile: deploy/docker/dockerfile
+
+    container_name: pharma-api
+
+    env_file:
+      - ../../.env
+
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      QDRANT_HOST: qdrant
+      QDRANT_PORT: 6333
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      MLFLOW_HOST: mlflow
+      MLFLOW_PORT: 5000
+      KEYCLOAK_HOST: keycloak
+      KEYCLOAK_PORT: 8080
+
+    ports:
+      - "${FASTAPI_PORT}:8000"
+
+    depends_on:
+      postgres:
+        condition: service_healthy
+      qdrant:
+        condition: service_started
+      redis:
+        condition: service_started
+      mlflow:
+        condition: service_started
+      keycloak:
+        condition: service_started
+
+    restart: unless-stopped
+
+volumes:
+
+  postgres_data:
+
+  qdrant_data:
+
+  redis_data:
+
+  mlflow_data:

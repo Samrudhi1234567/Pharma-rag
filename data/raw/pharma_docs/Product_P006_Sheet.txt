@@ -1,0 +1,23 @@
+Tenant: pharma-a
+Allowed Roles: analyst
+Product: P006
+Region: North
+Year: 2026
+Quarter: Q1
+Classification: internal
+
+Product ID: P006
+Product Name: Cetirizine
+Therapeutic Area: Antihistamine
+Synthetic Indication: Allergy management
+Dosage Form: Tablet
+
+Cetirizine demonstrated strong synthetic commercial performance
+during Q1 2026.
+
+The product showed significant demand across the North region.
+Sales performance remained consistent with the synthetic business
+targets for the reporting period.
+
+This document contains synthetic pharmaceutical product information
+created for the Pharma RAG evaluation system.
